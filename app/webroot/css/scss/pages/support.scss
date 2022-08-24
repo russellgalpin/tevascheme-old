@@ -1,0 +1,293 @@
+.support {
+
+    @include ts {
+        margin-top: 100px;
+    }
+
+    .support-heading {
+        text-align: center;
+
+        @include ts {
+            text-align: left;
+        }
+
+        .heading-content {
+            min-height: 240px;
+
+            .support-icon {
+                width: 100%;
+                padding: 0 20% 5%;
+                
+                @include ml {
+                    float: left;
+                    width: 150px;
+                    margin-right: 20px;
+                    padding: 0;
+                }
+            }
+
+            h1 {
+
+                @include ml {
+                    float: left;
+                    max-width: 65%;
+                    padding-top: 18px;
+                }
+            }
+
+            .roundalls {
+                display: none;
+
+                @include tl {
+                    display: inline-block;
+                    float: right;
+                    width: 150px;
+                }
+            }
+        }
+
+    }
+
+    .support-banner {
+        background: $light-grey;
+        padding: 20px;
+        clear: both;
+        text-align: center;
+        margin: 20px 0 40px;
+
+        @include ts {
+            margin-top: 0;
+            padding: 20px 40px;
+        }
+
+        img {
+                
+            &.img-left {
+                display: none;
+
+                @include ts {
+                    display: inline-block;
+                    float: left;
+                    width: 120px;
+                    margin-top: 30px;
+                }
+            }
+            &.img-right {
+                float: right;
+                width: 80px;
+                margin-left: 20px;
+                margin-top: 20px;
+
+                @include ts {
+                    width: 100px;
+                }
+            }
+        }
+
+        .banner-content {
+            margin: 0 auto;
+            text-align: left;
+
+            @include ts {
+                max-width: 50%;
+                text-align: center;
+            }
+
+            p {
+                color: $blue;
+            }
+
+            small {
+                display: block;
+                padding-bottom: 16px;
+            }
+        }
+    }
+
+    &.price-list {
+        h2.sub-title, p.sub-sub-title {
+            margin-bottom: 30px!important;
+        }
+    }
+
+    .support-content {
+        margin-top: 50px;
+
+        article {
+            margin-right: 0;
+            padding-right: 0;
+            border-right: 0;
+            border-bottom: none;
+
+            @include ts {
+                margin-right: 40px;
+                padding-right: 50px;
+                border-right: 1px solid $grey;
+            }
+
+            em {
+                color: $blue;
+            }
+
+            .outer-wrapper {
+                margin-top: 40px;
+                padding-top: 40px;
+                border-top: 1px solid $grey;
+
+                .inner-wrapper {
+
+                    &.collapse:not(.show) {
+                        display: block;
+                    }
+
+                    .content {
+                        width: 100%;
+                        padding: 0;
+
+                        h3 {
+                            margin: 10px 0 5px;
+                        }
+
+                        small {
+                            display: block;
+                            margin-bottom: 20px;
+                        }
+
+                        .resources {
+                            margin: 20px 0 0 0;
+                            padding: 0;
+                            border-top: none;
+
+                            .inner-wrapper {
+                                margin-bottom: 0;
+
+                                .collapse:not(.show) {
+                                    display: none;
+                                }
+
+                                .btn-link {
+                                    pointer-events: unset;
+
+                                    h4 {
+                                        font-size: 15px;
+                                        font-weight: 400;
+                                        text-decoration: none;
+                                        color: $body;
+                                        background: $light-grey;
+                                        padding: 10px 15px;
+                                        border-bottom: 1px solid $grey;
+                                        margin: -2px 0 0;
+
+                                        i {
+                                            display: none;
+                                            font-style: normal;
+
+                                            @include ts {
+                                                display: inline-block;
+                                            }
+                                        }
+                                    }
+
+                                    .open-close {
+                                        display: block;
+                                        top: 2px;
+                                    }
+
+                                    &:not(.collapsed) {
+                                        .open-close {
+                                            transform: rotate(0deg);
+            
+                                            &:before {
+                                                content: '';
+                                                display: block;
+                                                width: 0;
+                                                height: 0;
+                                                border-bottom: solid 2px $dark-grey;
+                                                position: absolute;
+                                                bottom: 11px;
+                                                transform: rotate(90deg);
+                                            }
+                                        }
+                                    }
+                                }
+
+                                .card-body {
+                                    padding: 20px;
+
+                                    img {
+                                        float: left;
+                                        margin: 0 20px 0 0;
+                                    }
+
+                                    p {
+                                        font-size: 14px;
+                                    }
+                                }
+
+                            }
+                            
+                        }
+                    }
+                }
+
+            }
+        }
+
+        aside {
+
+            img {
+                width: 100%;
+                margin-bottom: 150px;
+                padding: 0 160px;
+
+                @include ts {
+                    padding: 0 60px;
+                }
+            }
+
+            .form-link {
+                margin-top: -120px;
+            }
+
+            .outer-wrapper {
+                .inner-wrapper {
+        
+                    .content {
+                        width: 100%;
+        
+                        ul {
+                            margin-top: 10px;
+
+                            li {
+                                font-size: 15px;
+                                margin-bottom: 12px;
+        
+                                &:after {
+                                    display: inline-block;
+                                    margin-left: 8px;
+                                    border-style: solid;
+                                    border-color: $blue;
+                                    border-width: 1px 1px 0 0;
+                                    content: '';
+                                    height: 6px;
+                                    width: 6px;
+                                    transform: rotate(45deg);
+                                    vertical-align: middle;
+                                }
+                            }
+                        }
+        
+                    }
+
+                }
+            }
+           
+        }
+    }
+
+    &.forms {
+        h1 {
+            margin-bottom: 60px;
+        }
+    }
+}

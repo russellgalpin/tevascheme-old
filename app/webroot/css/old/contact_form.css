@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.contact-image-holder{
+	position: absolute;
+	bottom  : 200px;
+	right   : 0;
+	width   : 546px;
+	height  : 552px;
+	z-index : 0; 
+}

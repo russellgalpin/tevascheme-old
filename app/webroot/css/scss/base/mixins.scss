@@ -1,0 +1,38 @@
+//media queries
+$ms: $screen__xxs;
+$ml: $screen__xs;
+$ts: $screen__s;
+$tl: $screen__m;
+$ds: $screen__l;
+$dl: $screen__xl;
+
+@mixin ms {
+	@media (min-width: #{$ms}) {
+		@content;
+	}
+}
+@mixin ml {
+	@media (min-width: #{$ml}) {
+		@content;
+	}
+}
+@mixin ts {
+	@media (min-width: #{$ts}) {
+		@content;
+	}
+}
+@mixin tl {
+	@media (min-width: #{$tl}) {
+		@content; 
+	}
+}
+@mixin ds {
+	@media (min-width: #{$ds}) {
+		@content;
+	}
+}
+@mixin dl {
+	@media (min-width: #{$dl}) {
+		@content;
+	}
+}

@@ -1,0 +1,306 @@
+body{
+	margin : 0;
+	padding: 0;
+	border : 0;
+}
+
+.span-12{
+	width: 978px;
+}
+
+.center{
+	margin: auto;
+}
+
+.wrapper-pharm{
+	height  : 442px;
+	overflow: hidden;
+	position: relative;
+	top: 325px;
+}
+
+.button-cont{
+	position: absolute;
+	width   : 164px;
+	height  : 307px;
+	top     : 0;
+	left    : 0;
+	z-index : 100;
+}
+
+.button-1{
+	position: absolute;
+	width   : 164px;
+	height  : 161px;
+	top     : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.button-2{
+	position: absolute;
+	width   : 164px;
+	height  : 141px;
+	bottom  : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.rollover-cont{
+	position: absolute;
+	width   : 852px;
+	height  : 442px;
+	top     : 0;
+	right   : 0;
+	z-index : 50;
+}
+
+.graphic-window-1{
+	position: absolute;
+	top     : 0;
+	right   : 0;
+	width   : 808px;
+	height  : 190px;	
+	z-index : 30;
+	overflow: hidden;
+}
+
+.graphic-window-2{
+	position: absolute;
+	top     : 143px;
+	right   : 0;
+	width   : 808px;
+	height  : 167px;	
+	z-index : 20;
+	overflow: hidden;
+}
+
+.graphic-window-3{
+	position: absolute;
+	bottom  : 0;
+	right   : 0;
+	width   : 852px;
+	height  : 132px;	
+	z-index : 10;
+	overflow: hidden;
+}
+
+.left-graphic{
+	position: absolute;
+	width   : 100%;
+	height  : 100%;
+	top     : 0;
+	left    : -100%;	
+}
+
+.top-graphic{
+	position: absolute;
+	width   : 100%;
+	height  : 100%;
+	top     : -100%;
+	left    : 0;	
+}
+
+/** DISPENSING DOCTOR **/
+
+.wrapper-dd{
+	height  : 431px;
+	overflow: hidden;
+	position: relative;
+}
+
+.button-cont-dd{
+	position: absolute;
+	width   : 184px;
+	height  : 300px;
+	top     : 0;
+	left    : 0;
+	z-index : 100;
+}
+
+.button-dd-1{
+	position: absolute;
+	width   : 184px;
+	height  : 157px;
+	top     : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.button-dd-2{
+	position: absolute;
+	width   : 184px;
+	height  : 138px;
+	bottom  : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.rollover-cont-dd{
+	position: absolute;
+	width   : 829px;
+	height  : 431px;
+	top     : 0;
+	right   : 0;
+	z-index : 50;
+}
+
+.graphic-window-dd-1{
+	position: absolute;
+	top     : 0;
+	right   : 0;
+	width   : 788px;
+	height  : 207px;	
+	z-index : 30;
+	overflow: hidden;
+}
+
+.graphic-window-dd-2{
+	position: absolute;
+	top     : 139px;
+	right   : 0;
+	width   : 788px;
+	height  : 163px;	
+	z-index : 20;
+	overflow: hidden;
+}
+
+.graphic-window-dd-3{
+	position: absolute;
+	bottom  : 0;
+	right   : 0;
+	width   : 829px;
+	height  : 129px;	
+	z-index : 10;
+	overflow: hidden;
+}
+
+/** TEVA TWO SECTION **/
+
+.wrapper-t2{
+	height  : 475px;
+	overflow: hidden;
+	position: relative;
+}
+
+.button-cont-t2{
+	position: absolute;
+	width   : 314px;
+	height  : 314px;
+	top     : 0;
+	left    : 0;
+	z-index : 100;
+}
+
+.button-t2-1{
+	position: absolute;
+	width   : 314px;
+	height  : 314px;
+	top     : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.rollover-cont-t2{
+	position: absolute;
+	width   : 657px;
+	height  : 475px;
+	top     : 0;
+	right   : 0;
+	z-index : 50;
+}
+
+.graphic-window-t2-1{
+	position: absolute;
+	top     : 0;
+	right   : 0;
+	width   : 657px;
+	height  : 315px;	
+	z-index : 20;
+	overflow: hidden;
+}
+
+.graphic-window-t2-2{
+	position: absolute;
+	bottom  : 0;
+	right   : 0;
+	width   : 657px;
+	height  : 158px;	
+	z-index : 10;
+	overflow: hidden;
+}
+/** INFO **/
+
+.wrapper-info{
+	height  : 200px;
+	overflow: hidden;
+	position: relative;
+}
+
+.button-cont-info{
+	position: absolute;
+	width   : 31px;
+	height  : 31px;
+	top     : 0;
+	left    : 0;
+	z-index : 100;
+}
+
+.button-info-1{
+	position: absolute;
+	width   : 31px;
+	height  : 31px;
+	top     : 0;
+	left    : 0;
+	cursor  : pointer;
+}
+
+.rollover-cont-info{
+	position: absolute;
+	width   : 590px;
+	height  : 120px;
+	top     : 0;
+	right   : 0;
+	z-index : 50;
+}
+
+.graphic-window-info-1 {
+	position: absolute;
+	top: 10px;
+	right: 383px;
+	width   : 590px;
+	height  : 120px;
+	z-index: 20;
+	overflow: hidden;
+}
+
+.graphic-window-info-2{
+	position: absolute;
+	bottom  : 0;
+	right   : 0;
+	width   : 590px;
+	height  : 120px;	
+	z-index : 10;
+	overflow: hidden;
+}
+
+/** Teva two info key special settings **/
+
+.rollover-cont-info3{
+	position: absolute;
+	width   : 520px;
+	height  : 60px;	
+	top     : 0;
+	right   : 0;
+	z-index : 50;
+}
+
+.graphic-window-info-3 {
+	position: absolute;
+	top: 10px;
+	right: 450px;
+	width   : 520px;
+	height  : 60px;	
+	z-index: 20;
+	overflow: hidden;
+}

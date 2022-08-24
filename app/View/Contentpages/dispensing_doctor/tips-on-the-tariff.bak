@@ -1,0 +1,45 @@
+<?php
+// Header markup
+echo $this->element('dispensing_doctor/header');
+
+echo '<main class="container support">';
+?>
+
+<section class="support-heading">
+	<div class="heading-content">
+		<img src="/img/icon-tips.png" alt="Tips on the Tariff" class="support-icon">
+		<h1>Helping you to understand <strong>key aspects</strong> of the Drug Tariff</h1>
+		<img src="/img/roundalls-5.svg" alt="Roundalls" class="roundalls">
+	</div>
+</section>
+
+<section class="support-content">
+
+<div class="flex row">
+	<article class="col-ts-2-3">
+        <p>It can be a great challenge to understand the specific working of the Drug Tariff; how products are listed and reimbursement prices are calculated. As part of Teva's Pharmacy Support programme Teva's Essential Tips on the Tariff aims to clearly explain key aspects of the Drug Tariff, giving pharmacists a clear and practical explanation of how it works in practice.</p>
+        <br />
+
+	</article>
+
+	<aside class="col-ts-2-6">
+	
+		<img src="/img/ps-tips-image.png" alt="Download your FREE copy">
+
+		<div class="form-link">
+			<a href="/files/514b2ba0-d464-4bcf-8e6a-2c370d2e6b70_Essential%20tips%20on%20the%20tariff.pdf">
+				<button class="btn-secondary">Download your FREE copy</button>
+			</a>
+		</div>
+
+	</aside>
+</div>
+
+</section>
+
+<?php
+echo '</main>';
+// Footer markup
+echo $this->element('dispensing_doctor/footer');
+?>
+</div>

@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+input[type="button"], input[type="submit"]{
+	font-family     : PTSansRegular;
+	color           : #FFFFFF;
+	text-align      : center;
+	font-size       : 18px;
+	background-color: #1DA792;
+	cursor          : pointer;
+	width           : 138px;
+	height          : 45px;
+}
+
+input[type="button"].lrg-button{
+	width : 222px;
+}
+
+input[type="text"]{	
+	line-height     : 1.5em;
+	text-indent     : 10px;
+	font-family     : PTSansRegular;
+	color           : #231F20;
+	font-size       : 16px;
+	width           : 390px;
+	padding         : 10px 0 10px 0;
+	border          : 1px solid #cccccc;
+	background-color: #E9ECF4;
+}
+
+input[type="text"].not-valid, select.not-valid, textarea.not-valid{
+	border: 1px solid #FF0000;
+	background-color: #FFA4A4;
+}
+
+input[type="text"].short-input{
+	width:138px;
+}
+
+textarea{
+	text-indent     : 10px;
+	font-family     : PTSansRegular;
+	font-size       : 16px;
+	color           : #231F20;
+	padding         : 10px 0 10px 0;
+	-webkit-resize  : none;
+	-moz-resize     : none;
+	resize          : none;
+	border          : 1px solid #cccccc;
+	background-color: #E9ECF4;
+	height          : 250px;
+	overflow        : auto;
+}
+
+label{
+	font-family: PTSansRegular;
+	font-size  : 18px;
+	line-height: 1.2em;
+	color      : #231F20;
+}
+
+.outside-input{
+	position: absolute;
+	top     : 0;
+	right   : -336px;
+}
+
+.terms-list{
+	list-style-type    :decimal; 
+	list-style-position: outside;
+	font-family        : PTSansRegular;
+	font-size          : 14px;
+}
+
+.terms-list li{
+	margin-left: 1.3em;
+}
+
+.inactive-pip{
+	height             : 24px;
+	background-image   : url("/img/inactive-pip.png");
+	background-repeat  : no-repeat;
+	background-position: center center;
+}
+
+.active-pip{
+	background-image: url("/img/active-pip.png");
+}
+
+.complete-pip{
+	background-image: url("/img/complete-pip.png");	
+	cursor          : pointer;
+}
+
+/* space filling roundels */
+.form-roundel-place-one{
+	right : 30px;
+	bottom: 20px;
+}
+.form-roundel-place-two{
+	right: 130px;
+	top  : 0;
+}
+/*early IE haslayout bug fix*/
+.section{
+	min-height: 1px;
+}

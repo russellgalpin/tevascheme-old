@@ -1,0 +1,9 @@
+header {
+    .top-header {
+        height: 53px;
+
+        @include tl {
+            height: 130px;
+        }
+    }
+}

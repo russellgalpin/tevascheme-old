@@ -1,0 +1,80 @@
+/*! BUTTONS */
+button {
+    display: inline-block;
+	border-radius: 2px;
+    font-size: 16px;
+    text-decoration: none;
+    letter-spacing: 1px;
+ 	text-align: center;
+}
+button, input {
+    font-family: $font-weight-regular;
+    color: #fff;
+    padding: 14px 25px;
+    border: none;
+    transition: all 0.25s ease;
+
+    &.btn-primary {
+        font-size: 16px;
+        padding: 8px 24px 8px 14px;
+        margin: 10px 0;
+        background-color: $green;
+        box-shadow: 0 5px 20px -5px rgba(166,166,166,1);
+
+        &:hover {
+            background-color: $slate;
+            box-shadow: 0 5px 20px -5px rgba(0,0,0,0.75);
+        }
+
+        &:after {
+            position: relative;
+            border-style: solid;
+            border-width: 1px 1px 0 0;
+            content: '';
+            display: inline-block;
+            height: 8px;
+            width: 8px;
+            top: 8px;
+            left: 10px;
+            transform: rotate(45deg);
+            vertical-align: top;
+        }
+    }
+
+    &.btn-secondary {
+        font-size: 18px;
+        padding: 15px 40px 16px 30px;
+        margin: 10px 0 50px;
+        background-color: $blue;
+        border-radius: 6px;
+        box-shadow: 0 5px 20px -5px rgba(166,166,166,1);
+        width: 100%;
+
+        &:hover {
+            background-color: $green;
+            box-shadow: 0 5px 20px -5px rgba(0,0,0,0.75);
+        }
+
+        &:after {
+            position: relative;
+            border-style: solid;
+            border-width: 2px 2px 0 0;
+            content: '';
+            display: inline-block;
+            height: 8px;
+            width: 8px;
+            top: 10px;
+            left: 10px;
+            transform: rotate(45deg);
+            vertical-align: top;
+        }
+    }
+}
+button:hover, button:focus {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+input.btn-primary {
+    padding: 8px 20px;
+}

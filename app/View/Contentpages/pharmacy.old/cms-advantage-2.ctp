@@ -1,0 +1,166 @@
+<?php
+// Header markup
+echo $this->element('pharmacy/header');
+
+echo '<main class="container support">';
+?>
+
+<section class="support-heading">
+	<div class="heading-content">
+		<h1><strong>CMS Advantage 2</strong> – Supporting High Risk and New Medicine Interventions</h1>
+		<img src="/img/roundalls-5.svg" alt="Roundalls" class="roundalls">
+	</div>
+</section>
+
+<section class="support-banner">
+	<img src="/img/roundalls-2.svg" alt="Roundalls" class="img-left">
+	<img src="/img/roundalls-1.svg" alt="Roundalls" class="img-right">
+		<div class="banner-content">
+			<h3>Retail Price &pound;50 or free for eligible* TevaOne Members</h3>
+			<p>*Each monthly spend of &pound;3000 or more, made in previous three months, will entitle you to receive a Pharmacy Support Service free of charge.</p>
+		</div>
+</section>
+
+<section class="support-content">
+
+<div class="flex row">
+	<article class="col-ts-2-3">
+        <p>Teva's Chronic Medication Service (CMS) Advantage 2 kit is designed to help support you in delivering a great service for patients.</p>
+        <p>With the addition of the High risk and New medicines elements now being a part of Chronic Medication service, the CMS Advantage 2 Kit has been developed to provide pharmacists in Scotland with a wider range of innovative resources. In conjunction with Teva’s CMS Advantage, this kit aims to provide further support materials to help you conduct efficient and effective patient interventions. We have liaised with Community Pharmacy Scotland to ensure that all items within the kit adhere to their guidelines around the CMS.</p>
+        <br />
+
+        <p><em>Specific medicine use support cards: Methotrexate tablets, Salbutamol (inhaler), Clopidogrel, Furosemide, Ipratroprium bromide, Naproxen, Atenolol, Bisoprolol, Doxazosin, Gliclazide and Lisinopril.</em></p>
+        
+        <p><em>Innovative resources to help drive patient awareness</em></p>
+
+        <p><em>Use CMS Advantage 2 to support you and your pharmacy team to deliver High Risk and New Medicine patient interventions</em></p>
+
+        <p><em>Supports you and your pharmacy to deliver a great Chronic Medication Service</em></p>
+
+		<div class="outer-wrapper accordion" id="accordionKit">
+			<div class="inner-wrapper" id="headingOne">
+				<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+					<h2>The kit contains <bdi>the following resources</bdi><span class="open-close"></span></h2>
+				</button>
+				<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionKit">
+					<div class="content card-body">
+						<div class="resources outer-wrapper accordion" id="accordionResources">
+
+							<div class="inner-wrapper" id="resource-heading-1">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-1" aria-expanded="false" aria-controls="resource-1">
+									<h4>11 Medicine Use Support Cards <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-1" class="collapse" aria-labelledby="resource-heading-1" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-one.jpg" alt="10 Medicine Use Support Cards">
+										<p>Medicine specific information to help pharmacists perform effective CMS interventions Includes: A Methotrexate support card for High Risk interventions.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="inner-wrapper" id="resource-heading-2">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-2" aria-expanded="false" aria-controls="resource-2">
+									<h4>A2 Poster <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-2" class="collapse" aria-labelledby="resource-heading-2" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-two.jpg" alt="Patient Self-Assessment Forms">
+										<p>To create patient awareness of the service.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="inner-wrapper" id="resource-heading-3">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-3" aria-expanded="false" aria-controls="resource-3">
+									<h4>Patient Leaflets <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-3" class="collapse" aria-labelledby="resource-heading-3" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-three.jpg" alt="CMS Stickers">
+										<p>Patient information about the Chronic Medication Service. To be displayed in the Strutboard.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="inner-wrapper" id="resource-heading-4">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-4" aria-expanded="false" aria-controls="resource-4">
+									<h4>Strutboard <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-4" class="collapse" aria-labelledby="resource-heading-4" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-four.jpg" alt="Patient Information Follow-On Leaflets">
+										<p>To place in you Pharmacy to hold the patient leaflets.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="inner-wrapper" id="resource-heading-5">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-5" aria-expanded="false" aria-controls="resource-5">
+									<h4>Patient Reminder Cards <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-5" class="collapse" aria-labelledby="resource-heading-5" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-five.jpg" alt="Patient Information Follow-On Leaflets">
+										<p>To remind patients of their CMS appointments.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="inner-wrapper" id="resource-heading-6">
+								<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-6" aria-expanded="false" aria-controls="resource-6">
+									<h4>New Medicine Stickers <span class="open-close"></span></h4>
+								</button>
+								<div id="resource-6" class="collapse" aria-labelledby="resource-heading-6" data-parent="#accordionResources">
+									<div class="content card-body">
+										<img src="/img/res-cms2-image-six.jpg" alt="Patient Information Follow-On Leaflets">
+										<p>To identify suitable patients.</p>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</article>
+
+	<aside class="col-ts-2-6">
+	
+		<img src="/img/icon-cms2.png" alt="CMS Advantage" class="support-icon">
+
+		<div class="form-link">
+			<a href="/pharmacy/cms-advantage-2-form">
+				<button class="btn-secondary">Order your Kit today</button>
+			</a>
+		</div>
+
+		<div class="outer-wrapper accordion" id="accordionLinks">
+			<div class="inner-wrapper" id="headingTwo">
+				<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+					<h2>Useful Links<span class="open-close"></span></h2>
+				</button>
+				<div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionLinks">
+					<div class="content card-body">
+						<ul>
+							<li><a href="http://www.chemistanddruggist.co.uk/">Chemist and Druggist</a></li>
+							<li><a href="http://www.psnc.org.uk/">PSNC</a></li>
+							<li><a href="http://www.dispensingdoctor.org/">Dispensing Doctors' Association</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</aside>
+</div>
+
+</section>
+
+<?php
+echo '</main>';
+// Footer markup
+echo $this->element('pharmacy/footer');
+?>
+</div>

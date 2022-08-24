@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+.center-choice{
+	width           : 970px;
+	height          : 620px;
+	left            : 50%;
+	margin-left     : -485px;
+	top             :240px;
+	background-image: url('/img/splash-back-center.jpg');
+	z-index         : 10;
+}
+
+.splash-white-box{
+	width           : 319px;
+	height          : 421px;
+	top             : 170px;
+	left            : 37px;
+	background-image: url('/img/splash-white-box.png');
+}
+
+/*
+@media only screen and (max-device-width: 480px) {
+
+	.splash-white-box{
+	width           : 319px;
+	height          : 421px;
+	top             : 170px;
+	left            : 10%;
+	background-image: url('/img/splash-white-box.png');
+	}
+	
+	#splash-head-one,
+	#splash-head-two,
+	#teva-logo,
+	#splash-footer {
+		margin-left: 100px;
+	}
+}
+*/
+
+
+#splash-para-three{
+	top  : 40px;
+	left : 20px;
+	width: 265px;
+}
+#splash-para-four{
+	top  : 165px;
+	left : 20px;
+	width: 265px;
+}
+.access-btn{
+	width           : 276px;
+	height          : 43px;
+	border-left     : 10px solid;
+	border-color    : #1593CD;
+	cursor          : pointer;
+	background-color: #DCDCDC;
+	color           : #464646;
+	font-size       : 14px;
+	text-align      : left;
+	padding         : 0 10px 0 5px;
+}
+#not-a-hcp{
+	left: 20px;
+	top : 255px;	
+}
+#hcp-ps{
+	left: 20px;
+	top : 306px;	
+}
+#hcp-dd{
+	left: 20px;
+	top : 358px;	
+}
+.splash-header{
+	font-size: 65px;
+}
+#splash-head-one{
+	top : 30px;
+	left: 31px;
+}
+#splash-head-two{
+	top : 88px;
+	left: 108px;
+}
+.nhcp-text{
+	background-color: #ffffff;
+	width           : 480px;
+	border          : 1px solid;
+	border-color    : #cccccc;
+	padding         : 10px;
+	right           :37px;
+	top             : 170px;
+}
+.splash-back{
+	width     : 100%;
+	height    : 100%;
+	min-height: 1100px;
+	position  : absolute;
+	top       : 0;
+	left      : 0;
+	z-index   : 0;
+	overflow  : hidden;
+}
+#splash-image-back{
+	/*
+	width   : 100%;
+	height  : 100%;
+	*/
+	position: absolute;
+	top     : 0;
+	left    : 0;
+}
+#splash-footer{
+	position: absolute;
+	bottom  : -100px;
+	left    : 0;
+}
+#teva-logo{
+	position: absolute;
+	left    : 0;
+	top     : -200px;
+}
+
+@media screen and (max-width: 480px) {
+
+	div.section-one {
+		margin: 0px 20px;
+	}
+	
+	}

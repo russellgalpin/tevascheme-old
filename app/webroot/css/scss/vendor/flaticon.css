@@ -1,0 +1,139 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-applicattion:before {
+	content: "\e000";
+}
+.flaticon-arrows130:before {
+	content: "\e001";
+}
+.flaticon-audio36:before {
+	content: "\e002";
+}
+.flaticon-button30:before {
+	content: "\e003";
+}
+.flaticon-clipboard105:before {
+	content: "\e004";
+}
+.flaticon-cloud297:before {
+	content: "\e005";
+}
+.flaticon-cross97:before {
+	content: "\e006";
+}
+.flaticon-customerservice10:before {
+	content: "\e007";
+}
+.flaticon-data112:before {
+	content: "\e008";
+}
+.flaticon-earth23:before {
+	content: "\e009";
+}
+.flaticon-email147:before {
+	content: "\e00a";
+}
+.flaticon-email5:before {
+	content: "\e00b";
+}
+.flaticon-emoticon85:before {
+	content: "\e00c";
+}
+.flaticon-gift92:before {
+	content: "\e00d";
+}
+.flaticon-globe41:before {
+	content: "\e00e";
+}
+.flaticon-happy39:before {
+	content: "\e00f";
+}
+.flaticon-lock55:before {
+	content: "\e010";
+}
+.flaticon-locked53:before {
+	content: "\e011";
+}
+.flaticon-mail59:before {
+	content: "\e012";
+}
+.flaticon-mark1:before {
+	content: "\e013";
+}
+.flaticon-measure16:before {
+	content: "\e014";
+}
+.flaticon-menu53:before {
+	content: "\e015";
+}
+.flaticon-message30:before {
+	content: "\e016";
+}
+.flaticon-messages8:before {
+	content: "\e017";
+}
+.flaticon-minus104:before {
+	content: "\e018";
+}
+.flaticon-money57:before {
+	content: "\e019";
+}
+.flaticon-network57:before {
+	content: "\e01a";
+}
+.flaticon-placeholder3:before {
+	content: "\e01b";
+}
+.flaticon-plus79:before {
+	content: "\e01c";
+}
+.flaticon-present5:before {
+	content: "\e01d";
+}
+.flaticon-puzzle37:before {
+	content: "\e01e";
+}
+.flaticon-rack1:before {
+	content: "\e01f";
+}
+.flaticon-server20:before {
+	content: "\e020";
+}
+.flaticon-settings48:before {
+	content: "\e021";
+}
+.flaticon-shield116:before {
+	content: "\e022";
+}
+.flaticon-shields16:before {
+	content: "\e023";
+}
+.flaticon-shields21:before {
+	content: "\e024";
+}
+.flaticon-users223:before {
+	content: "\e025";
+}
+.flaticon-wax1:before {
+	content: "\e026";
+}
+.flaticon-website16:before {
+	content: "\e027";
+}
+.flaticon-website7:before {
+	content: "\e028";
+}

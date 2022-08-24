@@ -1,0 +1,37 @@
+.forms {
+    margin-top: 80px;
+
+    h2 {
+        padding: 30px 0;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    #section-nav {
+        display: block;
+        margin-top: 30px;
+
+        .inactive-pip {
+            border-radius: 100%;
+            background: $slate;
+            height: 25px;
+            width: 25px;
+            margin-right: 25px;
+        }
+
+        .active-pip {
+            background: $blue;
+        }
+
+        .complete-pip {
+            background: $green;	
+            cursor: pointer;
+        }
+    }
+
+    form {
+        clear: both;
+    }
+}

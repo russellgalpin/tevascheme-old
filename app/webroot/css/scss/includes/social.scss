@@ -1,0 +1,39 @@
+.social-media {
+    float: left;
+}
+.social-media a:hover {
+	color: #fff;
+}
+.social-media ul {
+    margin: 0;
+    padding: 0;
+}
+.social-media li {
+    display: inline-block;
+    margin-right: 8px;
+    margin-bottom: 0!important;
+}
+.social-media li .twitter:before, .social-media li .linked-in:before,.social-media li .google-plus:before,.social-media li .facebook:before {
+	font-family: "FontAwesome";
+	font-size: 36px;
+	color: #999;
+}
+.social-media li .twitter:hover:before, .social-media li .linked-in:hover:before,.social-media li .google-plus:hover:before,.social-media li .facebook:hover:before {
+	color: $blue;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.social-media li .twitter:before {
+	content: "\f081";
+}
+.social-media li .linked-in:before {
+	content: "\f08c";
+}
+.social-media li .google-plus:before {
+	content: "\f0d4";
+}
+.social-media li .facebook:before {
+	content: "\f082";
+}

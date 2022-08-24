@@ -1,0 +1,3225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.70066,51.556214 ]
+    },
+    "properties": {
+    "Centre":"VILLAGE PHARMACY",
+    "Contact Name":"MR RAJAT PATEL",
+    "Address":"8 Earls Hall Parade",
+    "City":"SouthEnd On Sea",
+    "Postal Code":"SS2 6NW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.493501,51.75455 ]
+    },
+    "properties": {
+    "Centre":"The Pharmacy",
+    "Contact Name":"A & N A PATTANI",
+    "Address":" 1 CLEMATIS TYE  CROCUS WAY North Springfield",
+    "City":"CHELMSFORD",
+    "Postal Code":"CM1 6GL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.239753,51.162831 ]
+    },
+    "properties": {
+    "Centre":"LYDDEN SURGERY",
+    "Contact Name":"",
+    "Address":"114 CANTERBURY ROAD",
+    "City":" LYDDEN",
+    "Postal Code":"CT15 7ET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.012228,51.569524 ]
+    },
+    "properties": {
+    "Centre":"WOODSIDE PHARMACY",
+    "Contact Name":"Feriha Ibrahim",
+    "Address":" 851 HIGH ROAD",
+    "City":" LEYTONSTONE",
+    "Postal Code":"E11 1HH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.009615,51.563892 ]
+    },
+    "properties": {
+    "Centre":"WOODSIDE (LONDON) LTD ",
+    "Contact Name":"Feriha Ibrahim",
+    "Address":"633 HIGH ROAD LEYTONSTONE ",
+    "City":"LONDON",
+    "Postal Code":"E11 4RD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.003137,51.595233 ]
+    },
+    "properties": {
+    "Centre":"TRIPLESAVE (CHEMISTS) LTD",
+    "Contact Name":"T/A TRIPLESAVE LTD",
+    "Address":" 8 MACDONALD ROAD WALTHAMSTOW",
+    "City":"",
+    "Postal Code":"E17 4AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.02671,51.592716 ]
+    },
+    "properties": {
+    "Centre":"DANIELS PHARMACY LTD",
+    "Contact Name":"DANIELS PHARMACY LIMITED",
+    "Address":" 133 GEORGE LANE SOUTH WOODFORD",
+    "City":"",
+    "Postal Code":"E18 1AN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.774482,51.312942 ]
+    },
+    "properties": {
+    "Centre":"CHAPEL LANE PHARMACY",
+    "Contact Name":"",
+    "Address":" 102 CHAPEL LANE",
+    "City":" FARNBOROUGH",
+    "Postal Code":"GU14 9BL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.054259,51.112088 ]
+    },
+    "properties": {
+    "Centre":"MANSFIELD PARK SURGERY",
+    "Contact Name":"",
+    "Address":" LYMINGTON BOTTOM ROAD Medstead",
+    "City":"Alton",
+    "Postal Code":"GU34 5EW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.860603,51.109129 ]
+    },
+    "properties": {
+    "Centre":"FOREST SURGERY",
+    "Contact Name":"",
+    "Address":"60 FOREST ROAD BORDON",
+    "City":"Hampshire",
+    "Postal Code":"GU35 0BP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.828613,51.118984 ]
+    },
+    "properties": {
+    "Centre":"BADGERSWOOD SURGERY",
+    "Contact Name":"",
+    "Address":"MILL LANE BORDON",
+    "City":"Hampshire",
+    "Postal Code":"GU35 8LH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.664652,51.919123 ]
+    },
+    "properties": {
+    "Centre":"THE SURGERY",
+    "Contact Name":"",
+    "Address":" 29 BASSETT ROAD",
+    "City":"Leighton Buzzard",
+    "Postal Code":"LU7 1AR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17501,51.617149 ]
+    },
+    "properties": {
+    "Centre":"TORRINGTON PARK HCC LTD",
+    "Contact Name":"16 TORRINGTON PARK",
+    "Address":"16 Torrington Park",
+    "City":"",
+    "Postal Code":"N12 9SS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.204696,52.869682 ]
+    },
+    "properties": {
+    "Centre":"Village Hall Surgery",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"Nottingham Road",
+    "City":"Gotham",
+    "Postal Code":"NG11 0HE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.079856,50.816617 ]
+    },
+    "properties": {
+    "Centre":"Nyewood Healthcare Ltd",
+    "Contact Name":"",
+    "Address":"113 London Road",
+    "City":"Bognor Regis",
+    "Postal Code":"PO2 0BN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.750917,50.82365 ]
+    },
+    "properties": {
+    "Centre":"DOCTORS DIRECT PHARMA LTD",
+    "Contact Name":"Luke Crampsey",
+    "Address":"Unit 3a and b VINNETROW Business Centre VINNETROW ROAD",
+    "City":"Chichester ",
+    "Postal Code":"PO20 1QH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.685592,50.781205 ]
+    },
+    "properties": {
+    "Centre":"Nyewood Healthcare Ltd",
+    "Contact Name":"",
+    "Address":"Smith’s Pharmacy, 60 Aldwick Road",
+    "City":"Bognor Regis",
+    "Postal Code":"PO21 2NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.73854,50.770279 ]
+    },
+    "properties": {
+    "Centre":"Jordan’s Pharmacy",
+    "Contact Name":"",
+    "Address":"14-15 The Parade",
+    "City":"Bognor Regis",
+    "Postal Code":"PO21 4TW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.701481,50.788299 ]
+    },
+    "properties": {
+    "Centre":"West Meads Pharmacy",
+    "Contact Name":"",
+    "Address":"1 The Precinct",
+    "City":"Bognor Regis",
+    "Postal Code":"PO21 5SB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.982127,50.851624 ]
+    },
+    "properties": {
+    "Centre":"Leigh Park Pharmacy Ltd",
+    "Contact Name":"",
+    "Address":"Davies Pharmacy, 12 West Street",
+    "City":"Havant",
+    "Postal Code":"PO9 1PF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.98418,50.866327 ]
+    },
+    "properties": {
+    "Centre":"Leigh Park Pharmacy Ltd",
+    "Contact Name":"",
+    "Address":"35 Park Parade Leigh Park",
+    "City":"Havant",
+    "Postal Code":"PO9 5AA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.445798,51.024981 ]
+    },
+    "properties": {
+    "Centre":"BILLINGSHURST SURGERY",
+    "Contact Name":"",
+    "Address":" ROMAN WAY BILLINGSHURST ",
+    "City":"",
+    "Postal Code":"RH14 9QZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.288009,51.163605 ]
+    },
+    "properties": {
+    "Centre":"BROCKWOOD MEDICAL PRACTICE",
+    "Contact Name":"HEALTH BLDG BENTSBROOK CLOSE",
+    "Address":"Rusper Rd",
+    "City":"DORKING",
+    "Postal Code":"RH5 5BE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.49227,51.17415 ]
+    },
+    "properties": {
+    "Centre":"Marden Medical Centre ",
+    "Contact Name":"Lorna Sloane",
+    "Address":"Church Green Marden",
+    "City":"Kent",
+    "Postal Code":"TN12 9HP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.132095,50.989406 ]
+    },
+    "properties": {
+    "Centre":"Buxted Medical Centre",
+    "Contact Name":"Nick ",
+    "Address":"Framfield Road Buxted",
+    "City":"Uckfield",
+    "Postal Code":"TN22 5FD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.388195,51.094569 ]
+    },
+    "properties": {
+    "Centre":"LAMBERHURST SURGERY, THE DOWN",
+    "Contact Name":"Simone Allen",
+    "Address":"THE SURGERY THE DOWN LAMBERHURST NR TUNBRIDGE WELLS KENT",
+    "City":"Tunbridge Wells",
+    "Postal Code":"TN3 8EX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.605003,50.864714 ]
+    },
+    "properties": {
+    "Centre":"HAROLD ROAD SURGERY",
+    "Contact Name":"164 HAROLD ROAD",
+    "Address":"164 Harold Rd",
+    "City":"Hastings",
+    "Postal Code":"TN35 5NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.420108,51.532221 ]
+    },
+    "properties": {
+    "Centre":"VANTAGE PHARMACY",
+    "Contact Name":"Prakash Mahtani ",
+    "Address":" 252 KINGSHILL AVENUE",
+    "City":"Hayes",
+    "Postal Code":"UB4 8BZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26551,51.50181 ]
+    },
+    "properties": {
+    "Centre":"Alisha Pharmacy",
+    "Contact Name":"Rajendra Patel",
+    "Address":"257 Acton Lane",
+    "City":"Chiswick",
+    "Postal Code":"W4 5DG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.447519,51.713549 ]
+    },
+    "properties": {
+    "Centre":"A & J M SHEPPARD LTD",
+    "Contact Name":"",
+    "Address":"1 CONSTITUTIONAL BUILDINGS CANON STREET",
+    "City":" ABERDARE ",
+    "Postal Code":"CF44 7AW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.226056,55.93874 ]
+    },
+    "properties": {
+    "Centre":"OMNICARE LTD",
+    "Contact Name":"3 ARDMILLAN TERRACE",
+    "Address":" ",
+    "City":"",
+    "Postal Code":"EH11 2JN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.98743,52.58146 ]
+    },
+    "properties": {
+    "Centre":"HINGHAM SURGERY",
+    "Contact Name":"",
+    "Address":"HARDINGHAM STREET",
+    "City":" HINGHAM",
+    "Postal Code":"NR9 4JB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.88806,55.891316 ]
+    },
+    "properties": {
+    "Centre":"B J Spence ",
+    "Contact Name":"Paul spence",
+    "Address":"Ardgowan road",
+    "City":"Wemyss bay",
+    "Postal Code":"PA18 6AT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.241449,55.900048 ]
+    },
+    "properties": {
+    "Centre":"Kyles medical centre",
+    "Contact Name":"Morag",
+    "Address":"School Rd",
+    "City":"Tignabruaich",
+    "Postal Code":"Pa21 2BE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.921578,55.946679 ]
+    },
+    "properties": {
+    "Centre":"John Kennedy Pharmacy Ltd",
+    "Contact Name":"John Kennedy",
+    "Address":"67 Argyle St Dunoon",
+    "City":"Argyll",
+    "Postal Code":"PA23 7HJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.949818,55.99922 ]
+    },
+    "properties": {
+    "Centre":"Riverbank Surgery",
+    "Contact Name":"Michelle Pryde",
+    "Address":"Kilmun",
+    "City":"Dunoon",
+    "Postal Code":"PA23 8SE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.082104,56.174978 ]
+    },
+    "properties": {
+    "Centre":"Strachur Medical Practice",
+    "Contact Name":"Anne Maclachlan",
+    "Address":"Strachur",
+    "City":"Cairndow",
+    "Postal Code":"PA27 8BX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.224238,52.59997 ]
+    },
+    "properties": {
+    "Centre":"UPWELL HEALTH CENTRE",
+    "Contact Name":"",
+    "Address":" TOWNLEY CLOSE",
+    "City":" UPWELL",
+    "Postal Code":"PE14 9BT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.057718,52.497674 ]
+    },
+    "properties": {
+    "Centre":"DODDINGTON MEDICAL CENTRE",
+    "Contact Name":"THE SURGERY",
+    "Address":" 11D BENWICK ROAD",
+    "City":" DODDINGTON",
+    "Postal Code":"PE15 0TG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.376073,52.60291 ]
+    },
+    "properties": {
+    "Centre":"BRIDGE STREET SURGERY",
+    "Contact Name":"",
+    "Address":" 30-32 BRIDGE STREET",
+    "City":" DOWNHAM MARKET",
+    "Postal Code":"PE38 9DH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.270122,53.339284 ]
+    },
+    "properties": {
+    "Centre":"Kiveton Park Health Centre ",
+    "Contact Name":"joanne leeming",
+    "Address":"Chapel Way",
+    "City":"sheffield",
+    "Postal Code":"S26 6QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.462446,53.387442 ]
+    },
+    "properties": {
+    "Centre":"Wicker Pharmacy",
+    "Contact Name":"Manager",
+    "Address":"55 Wicker",
+    "City":"Sheffield ",
+    "Postal Code":"S3 8HT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.674512,53.283741 ]
+    },
+    "properties": {
+    "Centre":"eyam surgery",
+    "Contact Name":"martin middleton",
+    "Address":"church street eyam",
+    "City":"hope valley",
+    "Postal Code":"S32 5QH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.747926,53.348845 ]
+    },
+    "properties": {
+    "Centre":"evelyn medical centre",
+    "Contact Name":"Janet o’reilly",
+    "Address":"marsh avenue",
+    "City":"hope valley",
+    "Postal Code":"s33 6rj"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.57834,53.480193 ]
+    },
+    "properties": {
+    "Centre":"DEEPCAR LTD",
+    "Contact Name":"Cathrine Shaw ",
+    "Address":"T/A DEEPCARE PHARMACY 271 MANCHESTER ROAD  DEEPCAR",
+    "City":"Sheffield",
+    "Postal Code":"S36 2RA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.630486,53.525991 ]
+    },
+    "properties": {
+    "Centre":"A M CLARK LTD",
+    "Contact Name":"",
+    "Address":"1 MARKET PLACE PENISTONE",
+    "City":"SHEFFIELD",
+    "Postal Code":"S36 6DA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.430937,53.235745 ]
+    },
+    "properties": {
+    "Centre":"John Dent (Chemists) Ltd",
+    "Contact Name":"Pharmacy Manager ",
+    "Address":"79/81, New Square",
+    "City":"Chesterfield",
+    "Postal Code":"S40 1AH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.450706,53.256108 ]
+    },
+    "properties": {
+    "Centre":"John Dent (Chemists) Ltd",
+    "Contact Name":"Pharmacy Manager",
+    "Address":"1 Windermere Rd",
+    "City":"Chesterfield",
+    "Postal Code":"S41 8DU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.286529,53.230761 ]
+    },
+    "properties": {
+    "Centre":"Welbeck Road Health Centre",
+    "Contact Name":"Andrea Hodkin",
+    "Address":"16 Welbeck Road",
+    "City":"Bolsover",
+    "Postal Code":"S44 6DF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.471058,53.166526 ]
+    },
+    "properties": {
+    "Centre":"Ashover Medical Centre",
+    "Contact Name":"Elizabeth Banner",
+    "Address":"Milken Lane Ashover",
+    "City":"Chesterfield",
+    "Postal Code":"S45 0BA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.462548,51.771946 ]
+    },
+    "properties": {
+    "Centre":"S J SIGGERY PHARMACY",
+    "Contact Name":"Susan Siggery",
+    "Address":"KING STREET LAUGHARNE CARMARTHEN DYFED",
+    "City":"Carmarthen",
+    "Postal Code":"SA33 4QE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.774963,53.277816 ]
+    },
+    "properties": {
+    "Centre":"Tideswell Surgery",
+    "Contact Name":"richard clarey",
+    "Address":"Park Road Tideswell",
+    "City":"Buxton",
+    "Postal Code":"SK17 8NS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.865454,55.691614 ]
+    },
+    "properties": {
+    "Centre":"Stow health Centre",
+    "Contact Name":"Jacki Cooper",
+    "Address":"Station Road Stow",
+    "City":"Galashiels",
+    "Postal Code":"TD1 2SQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.748953,55.719381 ]
+    },
+    "properties": {
+    "Centre":"Lauder Pharmacy",
+    "Contact Name":"Cathy Scaife",
+    "Address":"5 Market Place",
+    "City":"Lauder",
+    "Postal Code":"Td2 6sr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.812896,55.181956 ]
+    },
+    "properties": {
+    "Centre":"Newcastleton medical practice",
+    "Contact Name":"Libby Kennedy",
+    "Address":"Moss road",
+    "City":"Newcastleton",
+    "Postal Code":"TD9 0RU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.537451,52.399796 ]
+    },
+    "properties": {
+    "Centre":"Nene Valley Surgery",
+    "Contact Name":"gill stacey",
+    "Address":"Green Lane",
+    "City":"thrapston",
+    "Postal Code":"NN14 4QL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.721671,52.497792 ]
+    },
+    "properties": {
+    "Centre":"APA LTD",
+    "Contact Name":"Manager",
+    "Address":"3 PYTCHLEY COURT",
+    "City":"CORBY",
+    "Postal Code":"NN17 2QD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.134294,51.73167 ]
+    },
+    "properties": {
+    "Centre":"TH Prichard & Son Ltd",
+    "Contact Name":"Chris Jones",
+    "Address":"47-48 Church Street",
+    "City":"Abertillery",
+    "Postal Code":"NP13 1DB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.029109,51.612083 ]
+    },
+    "properties": {
+    "Centre":"Watkin Davies Ltd",
+    "Contact Name":" joel",
+    "Address":"Bettws Shopping Centre Bettws",
+    "City":"Newport",
+    "Postal Code":"NP20 7TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.013995,51.687175 ]
+    },
+    "properties": {
+    "Centre":"CRAIG HINKS LTD",
+    "Contact Name":"",
+    "Address":"T/A NEW INN PHARMACY 35 THE WALK",
+    "City":" NEW INN",
+    "Postal Code":"NP4 5PU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.319697,52.633751 ]
+    },
+    "properties": {
+    "Centre":"Lionwood Pharmacy",
+    "Contact Name":"Kamlesh ondhia",
+    "Address":"30b Wellesley ave north",
+    "City":"Norwich",
+    "Postal Code":"NR1 4NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.328864,52.687538 ]
+    },
+    "properties": {
+    "Centre":"SPIXWORTH PHARMACY LTD",
+    "Contact Name":"",
+    "Address":" 106B CROSTWICK LANE SPIXWORTH",
+    "City":"",
+    "Postal Code":"NR10 3NQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.246029,52.862231 ]
+    },
+    "properties": {
+    "Centre":"ALDBOROUGH SURGERY",
+    "Contact Name":"Dispensary Team",
+    "Address":"4 CHAPEL ROAD",
+    "City":" ALDBOROUGH",
+    "Postal Code":"NR11 7NN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.995986,52.436042 ]
+    },
+    "properties": {
+    "Centre":"KINGS RIDE SURGERY",
+    "Contact Name":"",
+    "Address":"QUIDENHAM ROAD",
+    "City":" KENNINGHALL",
+    "Postal Code":"NR16 2EF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.867593,52.839329 ]
+    },
+    "properties": {
+    "Centre":"THE FAKENHAM MEDICAL PRACTICE",
+    "Contact Name":"",
+    "Address":"MEDITRINA HOUSE TRINITY ROAD",
+    "City":"",
+    "Postal Code":"NR21 8SY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.307888,52.924457 ]
+    },
+    "properties": {
+    "Centre":"Cromer Group Practice",
+    "Contact Name":"Simon Ingham ",
+    "Address":"Mill Road",
+    "City":"Cromer ",
+    "Postal Code":"NR27 0BG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.176313,52.606851 ]
+    },
+    "properties": {
+    "Centre":"SONICHEM Pharmacy",
+    "Contact Name":"MR P MAVJI",
+    "Address":"1 MONICA ROAD BRAUNSTONE",
+    "City":"LEICESTER",
+    "Postal Code":"LE3 2PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.461181,55.434161 ]
+    },
+    "properties": {
+    "Centre":"Drongan Pharmacy",
+    "Contact Name":"Stephen McCormick",
+    "Address":"64 mill of Shield road Drongan",
+    "City":"Ayrshire",
+    "Postal Code":"KA6 7AY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.254646,55.882485 ]
+    },
+    "properties": {
+    "Centre":"A G BANNERMAN LTD",
+    "Contact Name":"Sarah Jane Kerr",
+    "Address":" 171-173 SARACEN STREET",
+    "City":"",
+    "Postal Code":"G22 5JL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.050622,54.749864 ]
+    },
+    "properties": {
+    "Centre":"CALDBECK SURGERY",
+    "Contact Name":"FRIAR ROW",
+    "Address":"The Surgery/Friar Row Wigton",
+    "City":"",
+    "Postal Code":"CA7 8DS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.101309,55.785405 ]
+    },
+    "properties": {
+    "Centre":"A & A GILBRIDE ",
+    "Contact Name":"",
+    "Address":" 275 MAIN STREET  HIGH BLANTYRE",
+    "City":"Glasgow ",
+    "Postal Code":"G72 0DL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.161675,55.96511 ]
+    },
+    "properties": {
+    "Centre":"CAMPSIE PHARMACY LTD",
+    "Contact Name":"",
+    "Address":" 6 CAMPSIE ROAD  MILTON OF CAMPSIE",
+    "City":"Glasgow ",
+    "Postal Code":"G66 8EA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.749656,55.051876 ]
+    },
+    "properties": {
+    "Centre":"Ponteland Medical Group",
+    "Contact Name":"Sandra Forrester",
+    "Address":"Meadowfields ind est",
+    "City":"Ponteland",
+    "Postal Code":"NE20 9SD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.30324,51.665789 ]
+    },
+    "properties": {
+    "Centre":"RD & MR PARRY (CHEMISTS) LTD",
+    "Contact Name":"RD & MR PARRY CHEMISTS LTD",
+    "Address":"FOX STREET",
+    "City":"Treharris",
+    "Postal Code":"CF46 5HE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.006031,52.344298 ]
+    },
+    "properties": {
+    "Centre":"botesdale surgery",
+    "Contact Name":"nicola",
+    "Address":"botesdale health centre back hills",
+    "City":"botesdale",
+    "Postal Code":"IP22 1DW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.191843,51.427934 ]
+    },
+    "properties": {
+    "Centre":"TH & L Jones Ltd",
+    "Contact Name":"Jackie Shilstone",
+    "Address":"Murch Road",
+    "City":"Dinas Powys",
+    "Postal Code":"CF64 3RE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.826104,55.595957 ]
+    },
+    "properties": {
+    "Centre":"BELFORD MEDICAL PRACTICE",
+    "Contact Name":"CROFTFIELD",
+    "Address":"Croft Field",
+    "City":" BELFORD",
+    "Postal Code":"NE70 7ER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.192902,51.905893 ]
+    },
+    "properties": {
+    "Centre":"HAREWOOD SURGERY",
+    "Contact Name":"Susan Wiggett",
+    "Address":"HARWICH ROAD  GREAT OAKLEY",
+    "City":" HARWICH ",
+    "Postal Code":"CO12 5AD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.204369,53.036021 ]
+    },
+    "properties": {
+    "Centre":"HART CHEMISTS LTD",
+    "Contact Name":"HART CHEMIST LTD",
+    "Address":" 108 WATNALL ROAD HUCKNALL NOTTINGHAM",
+    "City":"",
+    "Postal Code":"NG15 7JW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.491892,52.218243 ]
+    },
+    "properties": {
+    "Centre":"SAXMUNDHAM HEALTH GROUP",
+    "Contact Name":"Shirley Scopes ",
+    "Address":"THE SURGERY LAMBSALE MEADOW",
+    "City":" SAXMUNDHAM",
+    "Postal Code":"IP17 1DY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.053411,52.146079 ]
+    },
+    "properties": {
+    "Centre":"NEEDHAM MARKET COUNTRY PRACTICE",
+    "Contact Name":"",
+    "Address":"BARKING ROAD NEEDHAM MARKET",
+    "City":"",
+    "Postal Code":"IP6 8EZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.229008,52.428527 ]
+    },
+    "properties": {
+    "Centre":"Church hill surgery",
+    "Contact Name":"Mandy Elvin",
+    "Address":"Station Road",
+    "City":"Diss",
+    "Postal Code":"IP21 4TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.980191,52.91269 ]
+    },
+    "properties": {
+    "Centre":"bingham medical centre",
+    "Contact Name":"rachel cousins",
+    "Address":"newgate street",
+    "City":"bingham",
+    "Postal Code":"NG12 3BU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.514006,52.80997 ]
+    },
+    "properties": {
+    "Centre":"MARKET CROSS SURGERY",
+    "Contact Name":"",
+    "Address":" BOURNE ROAD Corby Glenn",
+    "City":"Grantham",
+    "Postal Code":"NG33 4BB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.761284,52.886433 ]
+    },
+    "properties": {
+    "Centre":"Dove River Practice",
+    "Contact Name":"emma watson",
+    "Address":"Gib Lane",
+    "City":"Sudbury",
+    "Postal Code":"DE6 5HY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.198985,53.036048 ]
+    },
+    "properties": {
+    "Centre":"Mann's Pharmacy",
+    "Contact Name":"Pharmacy Manager ",
+    "Address":"13-15 Portland Road",
+    "City":"Hucknall",
+    "Postal Code":"NG15 7SL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.147156,55.576821 ]
+    },
+    "properties": {
+    "Centre":"Arran Pharmacy ltd",
+    "Contact Name":"Ruth Parker",
+    "Address":"Shore road brodick Isle of Arran",
+    "City":"Ayrshire",
+    "Postal Code":"KA27 8AJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.350134,54.474718 ]
+    },
+    "properties": {
+    "Centre":"UPPER EDEN MEDICAL PRACTICE",
+    "Contact Name":"THE HEALTH CENTRE",
+    "Address":"Silver Street",
+    "City":" KIRKBY STEPHEN",
+    "Postal Code":"CA17 4RB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.952264,55.078978 ]
+    },
+    "properties": {
+    "Centre":"Canonbie Surgery",
+    "Contact Name":"Janet Sabuldihin",
+    "Address":"Bowholm",
+    "City":"Canonbie",
+    "Postal Code":"DG14 0UX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.826247,54.801828 ]
+    },
+    "properties": {
+    "Centre":"COURT THORN SURGERY",
+    "Contact Name":"Nichola Wiggett",
+    "Address":"COURT THORN LOW HESKET  CARLISLE",
+    "City":"",
+    "Postal Code":"CA4 0HP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.508456,52.347546 ]
+    },
+    "properties": {
+    "Centre":"CUTLERS HILL SURGERY",
+    "Contact Name":"CUTLERS HILL SURGERY",
+    "Address":"BUNGAY ROAD ",
+    "City":"HALESWORTH",
+    "Postal Code":"IP19 8SG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.677931,54.52889 ]
+    },
+    "properties": {
+    "Centre":"SHAP MEDICAL PRACTICE",
+    "Contact Name":"Angie Potts",
+    "Address":"SHAP HEALTH CENTRE  PEGGY NUT CROFT",
+    "City":" SHAP",
+    "Postal Code":"CA10 3LW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.618905,54.979145 ]
+    },
+    "properties": {
+    "Centre":"SHEBBURN SURGERY",
+    "Contact Name":"",
+    "Address":"MAIN STREET  NEW ABBEY",
+    "City":"",
+    "Postal Code":"DG2 8BY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.494746,55.616115 ]
+    },
+    "properties": {
+    "Centre":"E J Templeton Newmark Pharmacy",
+    "Contact Name":"Marion peacock",
+    "Address":"14 Dean street",
+    "City":"Kilmarnock",
+    "Postal Code":"KA3 1EA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.340835,52.785447 ]
+    },
+    "properties": {
+    "Centre":"Manor House Surgery ",
+    "Contact Name":"lynne keeling",
+    "Address":"Mill Lane Belton",
+    "City":"Belton ",
+    "Postal Code":"LE12 9UJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.334233,52.227178 ]
+    },
+    "properties": {
+    "Centre":"FRAMLINGHAM MEDICAL PRACTICE",
+    "Contact Name":"THE SURGERY",
+    "Address":" PEMBROKE ROAD FRAMLINGHAM",
+    "City":"Woodbridge",
+    "Postal Code":"IP13 9HA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.692576,54.76377 ]
+    },
+    "properties": {
+    "Centre":"Kirkoswald Surgery",
+    "Contact Name":"Angela Hope",
+    "Address":"Ravenghyll Kirkoswald",
+    "City":"Penrith",
+    "Postal Code":"CA10 1DQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.004898,55.101211 ]
+    },
+    "properties": {
+    "Centre":"BALLANTRAE MEDICAL PRACTICE",
+    "Contact Name":"30 MAIN STREET",
+    "Address":"30 Main St Ballantrae",
+    "City":"Girvan",
+    "Postal Code":"KA26 0NB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.575953,52.207708 ]
+    },
+    "properties": {
+    "Centre":"THE LEISTON SURGERY",
+    "Contact Name":"Sheridan",
+    "Address":" MAIN STREET  ST LEISTON",
+    "City":"Leiston",
+    "Postal Code":"IP16 4ES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.617823,53.246144 ]
+    },
+    "properties": {
+    "Centre":"Baslow Health Centre",
+    "Contact Name":"Victoria Siddall",
+    "Address":"Church Lane",
+    "City":"Baslow",
+    "Postal Code":"DE45 1SP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.255253,52.796672 ]
+    },
+    "properties": {
+    "Centre":"Dishley Grange Medical Practice ",
+    "Contact Name":"Dishley Grange Medical Practice ",
+    "Address":"5 Cross Street",
+    "City":"Hathern ",
+    "Postal Code":"LE12 5LB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.405573,52.245158 ]
+    },
+    "properties": {
+    "Centre":"ROOKERY MEDICAL CENTRE, ",
+    "Contact Name":"Lucy Phillips ",
+    "Address":"ROOKERY HOUSE 40 THE ROOKERY",
+    "City":" NEWMARKET",
+    "Postal Code":"CB8 8NW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.141063,55.072979 ]
+    },
+    "properties": {
+    "Centre":"Glenkens Medical practice",
+    "Contact Name":"Reg Gill",
+    "Address":"High street New Galloway",
+    "City":"Castle douglas",
+    "Postal Code":"DG7 3RN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.306729,55.519718 ]
+    },
+    "properties": {
+    "Centre":"Arran Medical Group",
+    "Contact Name":"Janice MacVicar",
+    "Address":"Shiskine Surgery Shiskine",
+    "City":"Arran",
+    "Postal Code":"KA27 8EW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.310808,52.347219 ]
+    },
+    "properties": {
+    "Centre":"FRESSINGFIELD MEDICAL CENTRE",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"NEW STREET",
+    "City":"FRESSINGFIED",
+    "Postal Code":"IP21 5PJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.359163,52.966624 ]
+    },
+    "properties": {
+    "Centre":"West Hallam Medical Centre ",
+    "Contact Name":"West Hallam Medical Centre ",
+    "Address":"The Dales",
+    "City":"West Hallam Village ",
+    "Postal Code":"DE7 6GR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.358595,54.666807 ]
+    },
+    "properties": {
+    "Centre":"Trinity Pharmacy",
+    "Contact Name":"Mark Stanhope",
+    "Address":"Isle road Cockermouth",
+    "City":"Cumbria",
+    "Postal Code":"CA13 9HT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.582942,52.385626 ]
+    },
+    "properties": {
+    "Centre":"Woodford Surgery",
+    "Contact Name":"elaine cummings",
+    "Address":"13 thrapston road woodford",
+    "City":"northampton",
+    "Postal Code":"NN14 4HY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.104957,52.960219 ]
+    },
+    "properties": {
+    "Centre":"HART CHEMISTS LTD",
+    "Contact Name":"T/A COX PHARMACY",
+    "Address":" 87 OAKDALE ROAD",
+    "City":"",
+    "Postal Code":"NG3 7EJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.985096,51.927073 ]
+    },
+    "properties": {
+    "Centre":"THE ARDLEIGH SURGERY",
+    "Contact Name":"samantha sykes",
+    "Address":"DEDHAM ROAD  ARDLEIGH",
+    "City":"",
+    "Postal Code":"CO7 7LD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.244206,52.815364 ]
+    },
+    "properties": {
+    "Centre":"East Leake Medical Group",
+    "Contact Name":"barbara hepworth",
+    "Address":"45 Orchard close sutton bonnington",
+    "City":"loughborough",
+    "Postal Code":"LE12 5NF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.638278,53.142943 ]
+    },
+    "properties": {
+    "Centre":"Winster Medical Centre",
+    "Contact Name":"Carrie",
+    "Address":"3 Leacroft Road",
+    "City":"Winster",
+    "Postal Code":"DE4 2DL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.742641,52.245214 ]
+    },
+    "properties": {
+    "Centre":"CROASDALES PHARMACY",
+    "Contact Name":"Frankie Cooper",
+    "Address":"1 Lawson Place",
+    "City":"Bury St Edmunds",
+    "Postal Code":"IP32 7EW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.68219,53.176786 ]
+    },
+    "properties": {
+    "Centre":"Youlgreave Medical Centre",
+    "Contact Name":"Carrie",
+    "Address":"alport lane youlgreave",
+    "City":"Bakewell",
+    "Postal Code":"DE45 1WN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.044767,52.535561 ]
+    },
+    "properties": {
+    "Centre":"Fleckney Surgery",
+    "Contact Name":"W T HIND PARADE PHARMACY LLP",
+    "Address":" HIGH STREET  FLECKNEY",
+    "City":"",
+    "Postal Code":"LE8 8AJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.398699,53.075914 ]
+    },
+    "properties": {
+    "Centre":"D S TAMBER",
+    "Contact Name":"marie casteldine",
+    "Address":"45 derby road",
+    "City":"SWANWICK",
+    "Postal Code":"DE55 1AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.957576,52.978633 ]
+    },
+    "properties": {
+    "Centre":"east bridgford medical centre",
+    "Contact Name":"rebecca allen",
+    "Address":"2 butt lane",
+    "City":"east bridgford",
+    "Postal Code":"ng13 8ny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.676377,53.211674 ]
+    },
+    "properties": {
+    "Centre":"bakewell medical centre",
+    "Contact Name":"richard clarey",
+    "Address":"butts road",
+    "City":"bakewell",
+    "Postal Code":"DE45 1ED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.093411,52.871477 ]
+    },
+    "properties": {
+    "Centre":"keyworth medical practice",
+    "Contact Name":"Abid Suleman",
+    "Address":"bunny lane",
+    "City":"keyworth",
+    "Postal Code":"NG12 5JU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.383273,52.820021 ]
+    },
+    "properties": {
+    "Centre":"Birchwood Surgery",
+    "Contact Name":"Charlotte Watlow",
+    "Address":"Park Lane",
+    "City":"North Walsham",
+    "Postal Code":"NR28 0BQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.939629,52.514307 ]
+    },
+    "properties": {
+    "Centre":"H G Gill",
+    "Contact Name":"Jagjit Singh Gill",
+    "Address":"341 Rookery Road Handsworth ",
+    "City":"Birmingham",
+    "Postal Code":"b21 9pp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.05945,50.63587 ]
+    },
+    "properties": {
+    "Centre":" CASTLE SURGERY",
+    "Contact Name":"",
+    "Address":"TOMS MEAD WEST STREET Corfe Castle",
+    "City":"Wareham",
+    "Postal Code":"BH20 5HH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2264,50.678812 ]
+    },
+    "properties": {
+    "Centre":"THE WELLBRIDGE PRACTICE",
+    "Contact Name":"",
+    "Address":"WOOL SURGERY FOLLY LANE",
+    "City":" WAREHAM ",
+    "Postal Code":"BH20 6DS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.219824,50.752538 ]
+    },
+    "properties": {
+    "Centre":"BERE REGIS SURGERY",
+    "Contact Name":"",
+    "Address":"MANOR FARM ROAD BERE REGIS",
+    "City":" WAREHAM",
+    "Postal Code":"BH20 7HB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.897471,53.408013 ]
+    },
+    "properties": {
+    "Centre":"Gringley Surgery ",
+    "Contact Name":"Clare Marfleet",
+    "Address":"Leys Lane  Gringley on the Hill ",
+    "City":"Doncaster",
+    "Postal Code":"DN10 4QU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.024414,53.689286 ]
+    },
+    "properties": {
+    "Centre":"The Marshes Medical Practice",
+    "Contact Name":"Samantha Curry",
+    "Address":"Butt Lane Snaith",
+    "City":"Goole",
+    "Postal Code":"DN14 9DY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.439445,53.684236 ]
+    },
+    "properties": {
+    "Centre":"CENTRAL SURGERY",
+    "Contact Name":"",
+    "Address":" KING STREET",
+    "City":"",
+    "Postal Code":"DN18 5ER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.491823,53.553584 ]
+    },
+    "properties": {
+    "Centre":"DR BURSCOUGH & PARTNERS, RIVERSIDE SURGERY",
+    "Contact Name":"",
+    "Address":"BARNARD AVENUE",
+    "City":"Brigg",
+    "Postal Code":"DN20 8AS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.495121,53.551684 ]
+    },
+    "properties": {
+    "Centre":"DR WHITAKER & PARTNERS, THE SURGERY",
+    "Contact Name":"",
+    "Address":"53 BRIDGE STREET",
+    "City":" BRIGG",
+    "Postal Code":"DN20 8NT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.664245,53.492675 ]
+    },
+    "properties": {
+    "Centre":"HAWTHORN SURGERY",
+    "Contact Name":"HAWTHORNE SURGERY",
+    "Address":"SCOTTON ROAD",
+    "City":" SCOTTER",
+    "Postal Code":"DN21 3SB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.587694,53.476531 ]
+    },
+    "properties": {
+    "Centre":"G Payne Chemists",
+    "Contact Name":"Eric Court",
+    "Address":"8 High Street",
+    "City":"Kirton in Lindsey",
+    "Postal Code":"DN21 4LU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.594073,53.474089 ]
+    },
+    "properties": {
+    "Centre":"Kirton Lindsey Surgery",
+    "Contact Name":"Dr R Padley",
+    "Address":"29 Train Gate",
+    "City":"Kirton in Lindsey",
+    "Postal Code":"DN21 4PQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.037662,53.557 ]
+    },
+    "properties": {
+    "Centre":"TJ Birmingham Chemist",
+    "Contact Name":"Manager",
+    "Address":"ST. Hughs Avenue",
+    "City":"Cleethorpes",
+    "Postal Code":"DN35 8EB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.403585,53.57413 ]
+    },
+    "properties": {
+    "Centre":"The Medical Centre",
+    "Contact Name":"Ann Storr",
+    "Address":"52 Victoria Road",
+    "City":"Barnetby",
+    "Postal Code":"DN38 6HZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.205351,53.618722 ]
+    },
+    "properties": {
+    "Centre":"The Roxton Practice",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"143 Pelham Rd",
+    "City":"Immingham",
+    "Postal Code":"DN40 1JW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.246925,53.573582 ]
+    },
+    "properties": {
+    "Centre":"The Roxton Practice",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"Pelham Cres",
+    "City":"Keelby",
+    "Postal Code":"DN41 8EW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.348649,51.638921 ]
+    },
+    "properties": {
+    "Centre":"CULVERHAY SURGERY",
+    "Contact Name":"CULVERHAY SURGERY",
+    "Address":"Culverhay",
+    "City":" WOTTON UNDER EDGE",
+    "Postal Code":"GL12 7LS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.507177,52.187931 ]
+    },
+    "properties": {
+    "Centre":"Nunwell Surgery",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"10 Pump Steet",
+    "City":"Bromyard",
+    "Postal Code":"HR7 4BZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.433122,53.732182 ]
+    },
+    "properties": {
+    "Centre":"HESSLE PHARMACY",
+    "Contact Name":"",
+    "Address":"HESSLE PHARMACY 225 BOOTHFERRY ROAD",
+    "City":"HESSLE ",
+    "Postal Code":"HU13 9BB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.731667,53.754518 ]
+    },
+    "properties": {
+    "Centre":"DR MARSHALL & PARTNERS",
+    "Contact Name":"",
+    "Address":"THE HEALTH CENTRE THORNTON DAM LANE GILDERDYKE",
+    "City":"",
+    "Postal Code":"HU15 2UL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.40736,53.752787 ]
+    },
+    "properties": {
+    "Centre":"Brocklehurst & City Health",
+    "Contact Name":"Roman Pokorny",
+    "Address":"214 Willerby Road",
+    "City":"Hull",
+    "Postal Code":"HU5 5JW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.670912,53.270911 ]
+    },
+    "properties": {
+    "Centre":"The Glebe Practice",
+    "Contact Name":"Diane Denton",
+    "Address":"Sykes Lane",
+    "City":"Lincolnshire",
+    "Postal Code":"LN1 2NU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.002264,53.362241 ]
+    },
+    "properties": {
+    "Centre":"Newmarket Medical Practice",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"153 Newmarket Louth",
+    "City":"",
+    "Postal Code":"LN11 9EH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.476253,53.262865 ]
+    },
+    "properties": {
+    "Centre":"Nettleham Medical Practice",
+    "Contact Name":"Jeni Hughes",
+    "Address":"14 Lodge Lane",
+    "City":"Nettleham",
+    "Postal Code":"LN2 2RS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.277966,53.078684 ]
+    },
+    "properties": {
+    "Centre":"Billinghay Medical Practice ",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"39 High St Billinghay",
+    "City":"Lincoln",
+    "Postal Code":"LN4 4AU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.636987,53.126641 ]
+    },
+    "properties": {
+    "Centre":"BASSINGHAM SURGERY",
+    "Contact Name":"Jodie",
+    "Address":"20 TORGATE LANE Bassingham",
+    "City":"Lincoln",
+    "Postal Code":"LN5 9HF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.301337,53.287948 ]
+    },
+    "properties": {
+    "Centre":"WRAGBY SURGERY",
+    "Contact Name":"",
+    "Address":"Old Grammar School Way Wragby",
+    "City":"Market Rasen",
+    "Postal Code":"LN8 5DA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.890883,53.231324 ]
+    },
+    "properties": {
+    "Centre":"Tuxford Medical Centre ",
+    "Contact Name":"Natalie",
+    "Address":"Farraday Avenue",
+    "City":"Tuxford",
+    "Postal Code":"NG22 0HT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.759678,53.147655 ]
+    },
+    "properties": {
+    "Centre":"Colllingham Medical Centre/Pharmacy Pankhurst Cottage",
+    "Contact Name":"Dispensary Manager ",
+    "Address":"87 High St Collingham",
+    "City":"Newark",
+    "Postal Code":"NG23 7NG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.808531,53.074112 ]
+    },
+    "properties": {
+    "Centre":"Whisteler Chemist",
+    "Contact Name":"Pharmacy Manager ",
+    "Address":"Beaumond Chambers  1 London Rd",
+    "City":"Newark",
+    "Postal Code":"NG24 1TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.406507,52.997784 ]
+    },
+    "properties": {
+    "Centre":"R Gohil Pharmacy",
+    "Contact Name":"Pharmacy Manager ",
+    "Address":"Clover House  Boston Rd",
+    "City":"Sleaford",
+    "Postal Code":"NG34 7HD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.400977,53.048226 ]
+    },
+    "properties": {
+    "Centre":"Ruskington Medical Practice",
+    "Contact Name":"Pharmacy Manager ",
+    "Address":"Brookside Close Ruskington ",
+    "City":"Sleaford",
+    "Postal Code":"NG34 9GQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.163567,52.671938 ]
+    },
+    "properties": {
+    "Centre":"Abbeyview Surgery",
+    "Contact Name":"Kelly Wells",
+    "Address":"Crowland Health Centre Thorney Rd Crowland",
+    "City":"Peterborough",
+    "Postal Code":"PE6 0AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.472297,52.485583 ]
+    },
+    "properties": {
+    "Centre":"Oundle Medical Practice",
+    "Contact Name":"Nella Aioanei",
+    "Address":"Glapthorn Road",
+    "City":"Oundle",
+    "Postal Code":"PE8 4JA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.421712,52.578837 ]
+    },
+    "properties": {
+    "Centre":"Wansford & Kingscliffe Surgery",
+    "Contact Name":"Annette Reilly",
+    "Address":" Old Hill Farm Yarwell Road Town",
+    "City":"Wansford",
+    "Postal Code":"PE8 6PL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.477465,52.650925 ]
+    },
+    "properties": {
+    "Centre":"Lakeside Healthcare at Stamford",
+    "Contact Name":"Ruth Broughton",
+    "Address":"St Mary’s Medical Centre Wharf Road",
+    "City":"Stamford",
+    "Postal Code":"PE9 2DH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.217625,53.262411 ]
+    },
+    "properties": {
+    "Centre":"Creswell Pharmacy (Primachem)",
+    "Contact Name":"Michael Leah",
+    "Address":"143 Pelham Rd Creswell",
+    "City":"Worksop",
+    "Postal Code":"S80 4JE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.650735,51.009308 ]
+    },
+    "properties": {
+    "Centre":"WHITEPARISH SURGERY",
+    "Contact Name":"",
+    "Address":"COMMON ROAD  WHITEPARISH",
+    "City":"SALISBURY ",
+    "Postal Code":"SP5 2SU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.891066,52.976632 ]
+    },
+    "properties": {
+    "Centre":"ALTON SURGERY",
+    "Contact Name":"ALTON SURGERY",
+    "Address":" THE ALTON PRIMARY CARE CENTRE  HURSTONS LANE",
+    "City":" ALTON",
+    "Postal Code":"ST10 4AP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.863512,52.897102 ]
+    },
+    "properties": {
+    "Centre":"BALANCE STREET PRACTICE",
+    "Contact Name":"Cheryl Maidens",
+    "Address":" BALANCE STREET HEALTH CENTRE BALANCE STREET",
+    "City":" UTTOXETER",
+    "Postal Code":"ST14 8JG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.250178,53.107515 ]
+    },
+    "properties": {
+    "Centre":"GREENMOSS MEDICAL CENTRE",
+    "Contact Name":"Julie Maddock",
+    "Address":"PORTLAND DRIVE  SCHOLAR GREEN",
+    "City":"stoke on trent",
+    "Postal Code":"ST7 3BT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.050215,52.857493 ]
+    },
+    "properties": {
+    "Centre":"Plas Ffynnon Medical Centre",
+    "Contact Name":"Haf  Evans",
+    "Address":"Middleton Road",
+    "City":"Oswestry",
+    "Postal Code":"SY11 2RB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.324515,52.649657 ]
+    },
+    "properties": {
+    "Centre":"CAEREINION MEDICAL PRACTICE",
+    "Contact Name":"LLANFAIR CAEREINION",
+    "Address":"Caereinion Health Centre Llanfair Caereinion",
+    "City":"Welshpool",
+    "Postal Code":"SY21 0RT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.000165,52.635224 ]
+    },
+    "properties": {
+    "Centre":"WORTHEN MEDICAL PRACTICE",
+    "Contact Name":"Ann Wass",
+    "Address":"THE SURGERY  VILLAGE HALL",
+    "City":"Shrewsbury",
+    "Postal Code":"SY5 9HT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.955353,52.67874 ]
+    },
+    "properties": {
+    "Centre":"WESTBURY MEDICAL CENTRE",
+    "Contact Name":"WESTBURY MEDICAL CENTRE",
+    "Address":" VENNINGTON ROAD",
+    "City":" WESTBURY ",
+    "Postal Code":"SY5 9QX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.835416,52.442323 ]
+    },
+    "properties": {
+    "Centre":"CRAVEN ARMS MEDICAL PRACTICE",
+    "Contact Name":"",
+    "Address":"20 SHREWSBURY ROAD",
+    "City":" CRAVEN ARMS",
+    "Postal Code":"SY7 9PY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.782923,53.89744 ]
+    },
+    "properties": {
+    "Centre":"GARSTANG MEDICAL SERVICES LTD",
+    "Contact Name":"Manager",
+    "Address":"KEPPLE LANE PHARMACY",
+    "City":"Garstang",
+    "Postal Code":"PR3 1PB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.662415,53.729948 ]
+    },
+    "properties": {
+    "Centre":"HBS PHARMACY",
+    "Contact Name":"Angela",
+    "Address":" 30 ST MARYS ROAD",
+    "City":" BAMBER BRIDGE",
+    "Postal Code":"PR5 6TD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.972858,51.019734 ]
+    },
+    "properties": {
+    "Centre":"DR HICKMAN & PARTNER,",
+    "Contact Name":"",
+    "Address":" NORTH CURRY HEALTH CENTRE",
+    "City":"TAUNTON ",
+    "Postal Code":"TA3 6NQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.10336,50.167504 ]
+    },
+    "properties": {
+    "Centre":"THE PENRYN SURGERY",
+    "Contact Name":"Manager",
+    "Address":"SARACEN WAY",
+    "City":"PENRYN",
+    "Postal Code":"TR10 8HX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.549875,50.10657 ]
+    },
+    "properties": {
+    "Centre":"N H NICHOLLS",
+    "Contact Name":"NEWLYN PHARMACY",
+    "Address":" 5 THE STRAND",
+    "City":" NEWLYN",
+    "Postal Code":"TR18 5HH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.97871,50.178031 ]
+    },
+    "properties": {
+    "Centre":"PORTSCATHO SURGERY",
+    "Contact Name":"THE SURGERY",
+    "Address":" GERRANS HILL PORTSCATHO ",
+    "City":"TRURO",
+    "Postal Code":"TR2 5EE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.14145,53.915563 ]
+    },
+    "properties": {
+    "Centre":"COPMANTHORPE PHARMACY",
+    "Contact Name":"Manager",
+    "Address":"THE SHOPPING PRECINCT MAIN STREET",
+    "City":"YORK",
+    "Postal Code":"YO23 3GG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.141665,53.916247 ]
+    },
+    "properties": {
+    "Centre":"Copmanthorpe Pharmacy",
+    "Contact Name":"The Pharmacy Manager",
+    "Address":"Unit 8 The Shopping Precinct",
+    "City":"York",
+    "Postal Code":"YO23 3UB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.129435,53.949388 ]
+    },
+    "properties": {
+    "Centre":"PRIORY MEDICAL GROUP LTD",
+    "Contact Name":"Manager",
+    "Address":" CORNLANDS ROAD",
+    "City":"York",
+    "Postal Code":"YO24 3WX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.391306,54.020055 ]
+    },
+    "properties": {
+    "Centre":"THE PARK SURGERY",
+    "Contact Name":"",
+    "Address":"22A HIGH STREET",
+    "City":"Driffield",
+    "Postal Code":"YO25 4JR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.765636,53.836902 ]
+    },
+    "properties": {
+    "Centre":"Holme Pharmacy",
+    "Contact Name":"Keith Ridley",
+    "Address":"Rush View Holme-upon-Spalding-Moor",
+    "City":"",
+    "Postal Code":"YO43 4BJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.108927,54.103615 ]
+    },
+    "properties": {
+    "Centre":"Stillington Surgery",
+    "Contact Name":"Gail Martin",
+    "Address":"North Back Lane",
+    "City":"Stillington",
+    "Postal Code":"YO61 1LL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.192496,54.125406 ]
+    },
+    "properties": {
+    "Centre":"MILLFIELD SURGERY",
+    "Contact Name":"MILLFIELD SURGERY",
+    "Address":" MILLFIELD LANE EASINGWOLD",
+    "City":"",
+    "Postal Code":"YO61 3JR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.342391,54.23168 ]
+    },
+    "properties": {
+    "Centre":"The Lambert Medical Centre",
+    "Contact Name":"Hilary Snodgrass",
+    "Address":"2 Chapel St",
+    "City":"Thirsk",
+    "Postal Code":"YO7 1LU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.068173,53.780904 ]
+    },
+    "properties": {
+    "Centre":"Posterngate Surgery",
+    "Contact Name":"Debbie Cinderby",
+    "Address":"Portholme Rd",
+    "City":"Selby",
+    "Postal Code":"YO8 4QH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.966173,57.671608 ]
+    },
+    "properties": {
+    "Centre":"NORVIK PHARMACIES LTD",
+    "Contact Name":"",
+    "Address":"ARDACH HEALTH CENTRE HIGHFIELD ROAD",
+    "City":"BUCKIE",
+    "Postal Code":"AB56 1JE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.454081,51.112464 ]
+    },
+    "properties": {
+    "Centre":"Bruton Pharmacy",
+    "Contact Name":"Carol Feast",
+    "Address":"3 High Street",
+    "City":"Bruton",
+    "Postal Code":"BA10 0AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.309392,53.799191 ]
+    },
+    "properties": {
+    "Centre":"I G Todd Pharmacy",
+    "Contact Name":"Ian Clough",
+    "Address":"135-139 Burnley Road Padiham",
+    "City":"Burnley",
+    "Postal Code":"BB12 8BA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.726693,53.820963 ]
+    },
+    "properties": {
+    "Centre":"J Robertson &Son",
+    "Contact Name":"Yasir Hanif",
+    "Address":"5-7 Institute Rd",
+    "City":"Bradford",
+    "Postal Code":"BD2 2HY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.753878,53.775183 ]
+    },
+    "properties": {
+    "Centre":" WOODROYD HEALTH CENTRE",
+    "Contact Name":"INSHALLAH MEDS",
+    "Address":" WOODROYD ROAD",
+    "City":"Bradford",
+    "Postal Code":"BD5 8EL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.77526,53.786127 ]
+    },
+    "properties": {
+    "Centre":"SIDDIQUE PHARMACY LTD",
+    "Contact Name":"T/A SIDDIQUE PHARMACY",
+    "Address":" 215 GREAT HORTON ROAD",
+    "City":"Bradford",
+    "Postal Code":"BD7 3BG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.772791,53.785161 ]
+    },
+    "properties": {
+    "Centre":"SIDDIQUE PHARMACY LTD",
+    "Contact Name":"HORTON PARK PHARMACY",
+    "Address":" UNIT 4 HORTON PARK CENTRE 99 HORTON PARK AVENUE",
+    "City":"Bradford",
+    "Postal Code":"BD7 3EG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.418272,53.578582 ]
+    },
+    "properties": {
+    "Centre":"NASH PHARMACY LTD",
+    "Contact Name":"Christine Tomlinson",
+    "Address":"63 CASTLE STREET",
+    "City":"Bolton",
+    "Postal Code":"BL2 1AD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.08337,54.463673 ]
+    },
+    "properties": {
+    "Centre":"V E REANEY CHEMIST LTD",
+    "Contact Name":"12 LISBURN STREET",
+    "Address":"Hillsborough",
+    "City":"County Down",
+    "Postal Code":"BT26 6AB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.484949,54.95938 ]
+    },
+    "properties": {
+    "Centre":"KENNEDY'S PHARMACY LTD",
+    "Contact Name":"56 MAIN STREET",
+    "Address":" RASHARKIN",
+    "City":"COUNTY ANTRIM",
+    "Postal Code":"BT44 8PX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.971892,53.322283 ]
+    },
+    "properties": {
+    "Centre":"TREE TOPS PRIMARY HEALTH CARE CENTRE ",
+    "Contact Name":"T/A TREE TOPS PHARMACY",
+    "Address":" BRIDLE RD",
+    "City":"Birkenhead",
+    "Postal Code":"CH62 6EE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.089332,53.129598 ]
+    },
+    "properties": {
+    "Centre":"Leeswood Surgery",
+    "Contact Name":"Kirsty Ansell",
+    "Address":"Queen Street Leeswood",
+    "City":"Mold",
+    "Postal Code":"CH7 4RQ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.217594,53.270433 ]
+    },
+    "properties": {
+    "Centre":"Bodowen Surgery",
+    "Contact Name":"Mrs Elaine Gurney",
+    "Address":"Halkyn Road",
+    "City":"Holywell",
+    "Postal Code":"CH8 7GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.524877,54.78627 ]
+    },
+    "properties": {
+    "Centre":"L C J Clark pharmacy",
+    "Contact Name":"Miss C Bong",
+    "Address":"Baeumont",
+    "City":"Durham",
+    "Postal Code":"DH1 2AA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.483326,54.865685 ]
+    },
+    "properties": {
+    "Centre":"T S Dobbin",
+    "Contact Name":"Mr Tim Dobbin",
+    "Address":"philladelphia Lane",
+    "City":"Houghton-le-Spring",
+    "Postal Code":"DH4 4LE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.526906,54.522669 ]
+    },
+    "properties": {
+    "Centre":"J & L C Clark",
+    "Contact Name":"Mr David Mathews",
+    "Address":"297 Yarm Road",
+    "City":" Darlington",
+    "Postal Code":"DL1 1BA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.750513,54.648307 ]
+    },
+    "properties": {
+    "Centre":"AUCKLAND MEDICAL GROUP ",
+    "Contact Name":"MELISSA SINGLEWOOD",
+    "Address":"51 TOFT HILL",
+    "City":"BISHOP AUCKLAND ",
+    "Postal Code":"DL14 0JA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.648862,54.632733 ]
+    },
+    "properties": {
+    "Centre":"HANCOCK & AINSLEY PHARMACY ",
+    "Contact Name":"Natalie",
+    "Address":"1 MAIN STREET ",
+    "City":"SHILDON ",
+    "Postal Code":"DL4 1AJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.474324,50.809243 ]
+    },
+    "properties": {
+    "Centre":"CERNE ABBAS SURGERY",
+    "Contact Name":"Jo Meyrick ",
+    "Address":"51 LONG STREET",
+    "City":" CERNE ABBAS",
+    "Postal Code":"DT2 7JG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.970684,56.187962 ]
+    },
+    "properties": {
+    "Centre":"BANNERMANS PHARMACY",
+    "Contact Name":"",
+    "Address":" 4 ANDERSON STREET WELL PLACE",
+    "City":"Dunblane ",
+    "Postal Code":"FK15 9AJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.010416,53.920956 ]
+    },
+    "properties": {
+    "Centre":"O'Briens Pharmacy",
+    "Contact Name":"Stevan Agar",
+    "Address":"Fleetwood Health Centre Dock Road",
+    "City":"Fleetwood",
+    "Postal Code":"FY7 6HP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7122,53.585727 ]
+    },
+    "properties": {
+    "Centre":"DMH PHARMACY LTD",
+    "Contact Name":"T/A DMH PHARM LIMITED",
+    "Address":" THE HEALTH CENTRE 25 JOS LANE",
+    "City":"Huddersfield",
+    "Postal Code":"HD8 8DJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.524,54.139046 ]
+    },
+    "properties": {
+    "Centre":"North House surgery",
+    "Contact Name":"Charlotte",
+    "Address":"28 North Street",
+    "City":"Ripon",
+    "Postal Code":"HG4 1HL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.465892,54.010836 ]
+    },
+    "properties": {
+    "Centre":"BEECH HOUSE SURGERY",
+    "Contact Name":"1 ASH TREE ROAD",
+    "Address":"1 Ash Tree Rd",
+    "City":"Knaresborough",
+    "Postal Code":"HG5 0UB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.317842,57.656198 ]
+    },
+    "properties": {
+    "Centre":"BISHOPMILL PHARMACY",
+    "Contact Name":"Alastair Smith",
+    "Address":" 20 NORTH STREET BISHOPMILL",
+    "City":"Elgin",
+    "Postal Code":"IV30 4EF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.500364,56.03587 ]
+    },
+    "properties": {
+    "Centre":"CHARLESTOWN SURGERY",
+    "Contact Name":"T/A CHARLESTOWN PHARMACY",
+    "Address":" 1A MAIN ROAD Charlestown",
+    "City":"Dunfermline",
+    "Postal Code":"KY11 3ED"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.017114,53.481873 ]
+    },
+    "properties": {
+    "Centre":"Alexanders Pharmacy Ltd",
+    "Contact Name":"Sarah Winckles",
+    "Address":"49-51 Stuart Road Crosby",
+    "City":"Liverpool",
+    "Postal Code":"L23 0QE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.066665,53.563635 ]
+    },
+    "properties": {
+    "Centre":"Ryders Chemist",
+    "Contact Name":"Martin Hough",
+    "Address":"41 Old Town Lane",
+    "City":"Formby",
+    "Postal Code":"L37 3HJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.057884,53.524576 ]
+    },
+    "properties": {
+    "Centre":"Hightown Pharmacy",
+    "Contact Name":"Ellis Hall Lyon",
+    "Address":"Lower Alt Road Hightown",
+    "City":"Liverpool",
+    "Postal Code":"L38 0BF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.946985,54.199165 ]
+    },
+    "properties": {
+    "Centre":"Cartmel Surgery",
+    "Contact Name":"Denise Denison",
+    "Address":"Haggs Lane Cartmel",
+    "City":"Grange over Sands",
+    "Postal Code":"LA11 6PH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99363,54.251457 ]
+    },
+    "properties": {
+    "Centre":"HAVERTHWAITE SURGERY",
+    "Contact Name":"Rebekah Burley",
+    "Address":"BACKBARROW",
+    "City":"Ulverston",
+    "Postal Code":"LA12 8QF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.184682,54.232419 ]
+    },
+    "properties": {
+    "Centre":"DUDDON VALLEY MEDICAL PRACTICE",
+    "Contact Name":"ASKEW GATE",
+    "Address":"Askew Gate",
+    "City":"Kirkby-in-Furness",
+    "Postal Code":"LA17 7TE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.511134,54.119172 ]
+    },
+    "properties": {
+    "Centre":"Bentham Medical Practice",
+    "Contact Name":"Mrs Chris Dixon",
+    "Address":"Grasmere Drive",
+    "City":"Bentham",
+    "Postal Code":"LA2 7JP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.737133,54.312706 ]
+    },
+    "properties": {
+    "Centre":"HELME CHASE SURGERY",
+    "Contact Name":"HELME CHASE SURGERY",
+    "Address":"BURTON ROAD",
+    "City":"",
+    "Postal Code":"LA9 7HR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.414663,53.336245 ]
+    },
+    "properties": {
+    "Centre":"Pritchards Pharmacy",
+    "Contact Name":"Jacqueline Campbell",
+    "Address":"99 Victoria Road",
+    "City":"Prestatyn",
+    "Postal Code":"LL19 7SR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.216947,53.180269 ]
+    },
+    "properties": {
+    "Centre":"Felinheli Surgery",
+    "Contact Name":"Sophie Jarvis",
+    "Address":"Canolfan Iechyd Rowen",
+    "City":"Y Felinheli",
+    "Postal Code":"LL56 4RX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.500896,53.292527 ]
+    },
+    "properties": {
+    "Centre":"Boderdern Surgery",
+    "Contact Name":"Nia Constantine",
+    "Address":"Bro-r Ysgol",
+    "City":"Bodedern",
+    "Postal Code":"LL65 3UR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.226475,53.319376 ]
+    },
+    "properties": {
+    "Centre":"Dr Lews & Partners",
+    "Contact Name":"Sian Fearn Thomas",
+    "Address":"Gerafon Surgery Benllech",
+    "City":"Tyn-Y-Gongl",
+    "Postal Code":"LL74 8TF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25824,53.885494 ]
+    },
+    "properties": {
+    "Centre":"Tadcaster medical centre",
+    "Contact Name":"Val or Dawn",
+    "Address":"Crab Garth",
+    "City":"Tadcaster",
+    "Postal Code":"LS24 8HD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.21946,55.085407 ]
+    },
+    "properties": {
+    "Centre":"Humshaugh & Wark Medical Group",
+    "Contact Name":"Caroline Currie",
+    "Address":"Wark",
+    "City":"Hexham",
+    "Postal Code":"NE48 3LS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.689718,55.169477 ]
+    },
+    "properties": {
+    "Centre":"Wellway pharmacy ltd",
+    "Contact Name":"michelle douglas",
+    "Address":"Wellway",
+    "City":"Morpeth",
+    "Postal Code":"NE61 1BJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.149613,50.372025 ]
+    },
+    "properties": {
+    "Centre":"MODBURY PHARMACY LTD",
+    "Contact Name":"T/A KING STREET PHARMACY",
+    "Address":" 140 KING STREET",
+    "City":"",
+    "Postal Code":"PL1 5JE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.305699,50.395352 ]
+    },
+    "properties": {
+    "Centre":"Quay Lane Surgery",
+    "Contact Name":"Debbie Todd",
+    "Address":"old quay lane st germans",
+    "City":"saltash",
+    "Postal Code":"PL12 5LH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.145975,50.545798 ]
+    },
+    "properties": {
+    "Centre":"MODBURY PHARMACY LTD",
+    "Contact Name":"TAVYSIDE PHARMACY",
+    "Address":" ABBEY RISE Modbury",
+    "City":"Ivybridge",
+    "Postal Code":"PL19 9FD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.886434,50.349098 ]
+    },
+    "properties": {
+    "Centre":"MODBURY PHARMACY LTD",
+    "Contact Name":"T/A MODBURY PHARMACY",
+    "Address":" 5 BROAD STREET Modbury",
+    "City":"Ivybridge",
+    "Postal Code":"PL21 0PS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.888165,50.348432 ]
+    },
+    "properties": {
+    "Centre":"Modbury Health Centre",
+    "Contact Name":"Carol Watts",
+    "Address":"Poundwell Street Modbury",
+    "City":"Ivybridge",
+    "Postal Code":"PL21 0QL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.919078,50.389631 ]
+    },
+    "properties": {
+    "Centre":"MODBURY PHARMACY LTD",
+    "Contact Name":"IVYBRIDGE PHARMACY",
+    "Address":" 7 ERME COURT LEONARDS ROAD Modbury",
+    "City":"Ivybridge",
+    "Postal Code":"PL21 0SZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.788555,50.270586 ]
+    },
+    "properties": {
+    "Centre":"Mevagissey Surgery",
+    "Contact Name":"Elizabeth Watkins",
+    "Address":"River Street",
+    "City":"Mevagissy",
+    "Postal Code":"PL26 6UE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.890806,50.340139 ]
+    },
+    "properties": {
+    "Centre":"BRANNEL SURGERY",
+    "Contact Name":"BRANNEL SURGERY",
+    "Address":" 58 RECTORY ROAD ST. STEPHEN",
+    "City":"Saint Austell",
+    "Postal Code":"PL26 7RL"
+    }
+  }
+]
+}

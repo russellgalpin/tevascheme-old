@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.small-sign-up-btn-holder{
+	position: absolute;
+	width   : 146px;
+	height  : 145px;
+	right   : 44px;
+	top     : 230px;
+	cursor  : pointer;
+	overflow: hidden;
+}
+
+.small-sign-up-btn{
+	position: absolute;
+	top     : 0;
+	left    : 0;
+}
+
+.small-sign-up-btn:hover{
+	top:-145px;
+}

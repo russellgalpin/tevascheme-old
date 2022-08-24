@@ -1,0 +1,39 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # 301 Redirects
+    RewriteRule ^pharmacy-support$ /pharmacy/support [R=301,L] 
+    RewriteRule ^dispensing-doctor$ /dispensing-doctor/teva-one [R=301,L] 
+    RewriteRule ^surgery/sign-up$ /dispensing-doctor/sign-up [R=301,L] 
+	
+	RewriteRule ^pharmacy-support$ /pharmacy/teva-one [R=301,L] 
+    RewriteRule ^pharmacy-support/sign-up$ /pharmacy/sign-up [R=301,L]
+	
+	RewriteRule ^pharmacy$ /pharmacy/support [R=301,L]
+	RewriteRule ^pharmacy/$ /pharmacy/support [R=301,L] 
+	RewriteRule ^surgery$ /dispensing-doctor/support [R=301,L] 
+	RewriteRule ^surgery/$ /dispensing-doctor/support [R=301,L] 
+	
+	
+	RewriteRule ^pharmacy-support/teva-one$ /pharmacy/teva-one [R=301,L] 
+	RewriteRule ^pharmacy-support/teva-two$ /pharmacy/teva-two [R=301,L] 
+	RewriteRule ^pharmacy-support/contact-us$ /pharmacy/contact-us [R=301,L] 
+	RewriteRule ^pharmacy-support/cms-advantage-form$ /pharmacy/cms-advantage-form [R=301,L] 
+	RewriteRule ^pharmacy-support/dmr-advantage-form$ /pharmacy/dmr-advantage-form [R=301,L] 
+	RewriteRule ^pharmacy-support/generics-patient-comm-kit-form$ /pharmacy/generics-patient-comm-kit-form [R=301,L] 
+	RewriteRule ^pharmacy-support/mur-advantage-form$ /pharmacy/mur-advantage-form [R=301,L] 
+	RewriteRule ^pharmacy-support/nms-advantage-form$ /pharmacy/nms-advantage-form [R=301,L] 
+	RewriteRule ^pharmacy-support/pw-preview-reg$ /pharmacy/pw-preview-reg [R=301,L] 
+	RewriteRule ^pharmacy-support/teva-learning-zone-sign-up$ /pharmacy/teva-learning-zone-sign-up [R=301,L] 
+	RewriteRule ^pharmacy-support/tmur-advantage-form$ /pharmacy/tmur-advantage-form [R=301,L] 
+	RewriteRule ^pharmacy-support/pricewatch$ /pharmacy/pricewatch [R=301,L] 
+	RewriteRule ^pharmacy-support/terms-conditions$ /pharmacy/terms-conditions [R=301,L] 
+	RewriteRule ^pharmacy-support/360-order-form$ /pharmacy/360-order-form [R=301,L] 
+
+	
+    # End 301 Redirects
+    
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>

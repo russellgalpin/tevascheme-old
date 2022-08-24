@@ -1,0 +1,172 @@
+
+.flex-container a:active, .flexslider a:active, .flex-container a:focus, .flexslider a:focus {
+    outline: medium none;
+}
+.slides, .flex-control-nav, .flex-direction-nav {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.flexslider {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.flexslider .slides > li {
+    display: none;
+}
+.flexslider .slides img {
+    display: block;
+    width: auto;
+}
+.flex-pauseplay span {
+    text-transform: capitalize;
+}
+.slides:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+html[xmlns] .slides {
+    display: block;
+}
+* html .slides {
+    height: 1%;
+}
+.no-js .slides > li:first-child {
+    display: block;
+}
+.flexslider {
+    clear: both;
+    position: relative;
+}
+.flexslider .container {
+    position: relative;
+}
+.flex-viewport {
+    max-height: 2000px;
+    transition: all 1s ease 0s;
+}
+.loading .flex-viewport {
+    max-height: 300px;
+}
+.flexslider .slides {
+}
+.carousel li {
+    margin-right: 5px;
+}
+.flex-direction-nav {
+    position: absolute;
+    top: 50%;
+    margin-top: -19px;
+    width: 100%;
+}
+.flex-direction-nav a {
+    background: url("/img/global/slider-arrows.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    overflow: visible;
+    position: absolute;
+    text-decoration: none;
+    transition: none;
+    width: 20px;
+    z-index: 10;
+}
+.flex-direction-nav .flex-prev {
+    background-position: 0 0;
+    left: 15px;
+}
+.flex-direction-nav .flex-prev:hover {
+    background-position: 0 -38px;
+}
+.flex-direction-nav .flex-next {
+    background-position: -20px 0;
+    right: 0;
+}
+.flex-direction-nav .flex-next:hover {
+    background-position: -20px -38px;
+}
+.flex-direction-nav .flex-disabled {
+    cursor: default;
+    opacity: 0 !important;
+}
+
+.flex-pauseplay a {
+    bottom: 25%;
+    color: #000;
+    cursor: pointer;
+    display: block;
+    height: 25px;
+    left: 0;
+    margin: 0 auto;
+    opacity: 0.6;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    width: 25px;
+    z-index: 10;
+}
+.flex-pauseplay a:before {
+    content: "";
+    display: inline-block;
+    font-family: "FontAwesome";
+    font-size: 30px;
+}
+.flex-pauseplay a:hover {
+    opacity: 1;
+}
+.flex-pauseplay a.flex-play:before {
+    content: "";
+}
+.flex-control-nav {
+    position: absolute;
+    width: 100%;
+    padding: 0 0 0 65px;
+}
+.flex-control-nav li {
+    display: inline-block;
+    margin: 0 6px;
+}
+.flex-control-paging li a {
+    background: url("/img/global/slider-pagination.png") no-repeat;
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    position: relative;
+    text-indent: -9999px;
+    width: 15px;
+    transition:none;
+}
+.flex-control-paging li a:hover {
+    background-position: -15px 0;
+}
+.flex-control-paging li a.flex-active {
+    background-position: -15px 0;
+}
+.flex-control-thumbs {
+    margin: 5px 0 0;
+    overflow: hidden;
+    position: static;
+}
+.flex-control-thumbs li {
+    float: left;
+    margin: 0;
+    width: 25%;
+}
+.flex-control-thumbs img {
+    cursor: pointer;
+    display: block;
+    opacity: 0.7;
+    width: 100%;
+}
+.flex-control-thumbs img:hover {
+    opacity: 1;
+}
+.flex-control-thumbs .flex-active {
+    cursor: default;
+    opacity: 1;
+}

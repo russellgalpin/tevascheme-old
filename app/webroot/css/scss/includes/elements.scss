@@ -1,0 +1,74 @@
+@mixin plusMinus($width, $lineWidth, $dark-grey) {
+    float: right;
+    top: 4px;
+    box-sizing: border-box;
+    transition: transform 0.3s;
+    width: $width;
+    height: $width;
+    transform: rotate(180deg);
+    position: relative;
+  
+    &::before {
+      content: '';
+      display: block;
+      width: $width;
+      height:0px;
+      border-bottom: solid $lineWidth $dark-grey;
+      position: absolute;
+      bottom:$width /2 - $lineWidth/2;
+      transform: rotate(90deg);
+      transition: width 0.3s;
+    }
+    &::after {
+      content: '';
+      display: block;
+      width: $width;
+      height:0px;
+      border-bottom: solid $lineWidth $dark-grey;
+      position: absolute;
+      bottom:$width /2 - $lineWidth/2;
+    }
+  }
+  
+  .open-close {
+    @include plusMinus(20px, 2px, $dark-grey);
+  }
+
+  .google-map {
+    position: relative;
+    border: 1px solid $grey;
+    margin-top: 20px;
+
+    .open-map {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 40px;
+      margin: 60px 16px;
+      padding: 10px;
+      background-color: rgba(0,0,0,0.5);
+      background-image: url(../img/search.svg);
+      border-radius: 3px;
+      color: #fff;
+      font-size: 16px;
+      line-height: 1.4;
+      background-size: 10%;
+      background-repeat: no-repeat;
+      background-position: 95%;
+      padding-right: 40px;
+      transition: all 0.25s ease;
+
+      &:hover {
+        background-color: $blue;
+      }
+    }
+
+    iframe {
+      border: none;
+      width: 100%;
+    }
+  }
+
+  .roundalls {
+    height: 140px;
+  }

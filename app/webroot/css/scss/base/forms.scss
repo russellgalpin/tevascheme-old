@@ -1,0 +1,88 @@
+input, textarea {
+    border: 1px solid $grey;
+    background-color: $light-grey;
+    color: $body;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+}
+
+label {
+    display: block;
+    padding-top: 10px;
+
+    &.underneath {
+        display: block;
+    }
+}
+
+input.btn.primary {
+    &:after {
+        position: relative;
+        border-style: solid;
+        border-width: 1px 1px 0 0;
+        content: '';
+        display: inline-block;
+        height: 8px;
+        width: 8px;
+        top: 8px;
+        left: 10px;
+        transform: rotate(45deg);
+        vertical-align: top;
+    }
+}
+
+input[type="radio"] + label, input[type="checkbox"] + label {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+input[type="text"].not-valid, select.not-valid, textarea.not-valid {
+    border: 1px solid firebrick;
+    background-color: #FFE4E1
+}
+
+.red {
+    display: block;
+    clear: both;
+    padding-top: 20px;
+    color: firebrick;
+}
+
+.hidden {
+    display: none;
+}
+
+.custom-select {
+    position: relative;
+    padding: 0 10px;
+    margin: 0;
+    overflow: hidden;
+    max-width: 500px;
+    height: 48px;
+
+    &:after {
+        position: absolute;
+        border-style: solid;
+        border-width: 1px 1px 0 0;
+        border-color: $slate;
+        content: "▼";
+        height: 8px;
+        width: 8px;
+        top: 7px;
+        right: -30px;
+        transform: rotate(45deg);
+        vertical-align: top;
+        pointer-events:none;
+    }
+}
+
+.form-box {
+    background: $light-grey;
+    padding: 20px 30px 10px;
+    max-width: 500px;
+
+    label {
+        display: inline-block;
+    }
+}

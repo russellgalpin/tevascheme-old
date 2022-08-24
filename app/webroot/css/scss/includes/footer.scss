@@ -1,0 +1,86 @@
+.top-footer {
+    margin-top: 2%;
+
+    .main-logo {
+        float: right;
+        margin: 0 0 20px;
+
+        img {
+            width: 120px;
+
+            @include tl {
+                width: auto;
+            }
+        }
+
+        @include tl {
+            margin: 0 0 30px;
+        }
+    }
+    .top-links {
+        margin: 48px auto 0;
+        font-size: 14px;
+
+        @include ml {
+            max-width: 65%;
+        }
+
+        .website {
+            float: right;
+            margin-right: 0;
+            margin-top: -18px;
+            margin-bottom: 10px;
+
+            @include ml {
+                margin-right: 10px;
+                margin-top: -10px;
+                margin-bottom: 0;
+            }
+
+            @include dl {
+                margin-top: -2px;
+            }
+        }
+    }
+}
+
+footer {
+    background-color: $green;
+    color: #fff;
+    padding: 20px 0;
+
+    ul, p {
+        font-size: 12px;
+        margin-bottom: 0.5rem;
+
+        li {
+            display: inline-block;
+            
+            a {
+                color: #fff;
+
+                &:hover {
+                    color: #fff;
+                    text-decoration: underline; 
+                }
+            }   
+        }
+    }
+
+    .footer-left {
+        text-align: center;
+
+        @include ts {
+            float: left;
+            text-align: left;
+        }
+    }
+    .footer-right {
+        text-align: center;
+
+        @include ts {
+            float: right;
+            text-align: right;
+        }
+    }
+}

@@ -1,0 +1,38 @@
+// set colours
+$_link-color:$green;
+$_link-color-hover:$green;
+$link__hover__color:$green;
+$link__color:$green;
+$active__color: $green;
+
+// fonts
+@font-face{
+font-family:"TevaSans Bold";
+src:url("/fonts/tevasans/TevaSansWeb-Bold.eot?#iefix");
+src:url("/fonts/tevasans/TevaSansWeb-Bold.eot?#iefix") format("eot"),url("/fonts/tevasans/TevaSansWeb-Bold.woff2") format("woff2"),url("/fonts/tevasans/TevaSansWeb-Bold.woff") format("woff");
+}
+@font-face{
+font-family:"TevaSans Regular";
+src:url("/fonts/tevasans/TevaSansWeb-Regular.eot?#iefix");
+src:url("/fonts/tevasans/TevaSansWeb-Regular.eot?#iefix") format("eot"),url("/fonts/tevasans/TevaSansWeb-Regular.woff2") format("woff2"),url("/fonts/tevasans/TevaSansWeb-Regular.woff") format("woff");
+}
+@font-face{
+font-family:"TevaSans Italic";
+src:url("/fonts/tevasans/TevaSansWeb-Italic.eot?#iefix");
+src:url("/fonts/tevasans/TevaSansWeb-Italic.eot?#iefix") format("eot"),url("/fonts/tevasans/TevaSansWeb-Italic.woff2") format("woff2"),url("/fonts/tevasans/TevaSansWeb-Italic.woff") format("woff");
+}
+@font-face{
+font-family:"TevaSans LightItalic";
+src:url("/fonts/tevasans/TevaSansWeb-LightItalic.eot?#iefix");
+src:url("/fonts/tevasans/TevaSansWeb-LightItalic.eot?#iefix") format("eot"),url("/fonts/tevasans/TevaSansWeb-LightItalic.woff2") format("woff2"),url("/fonts/tevasans/TevaSansWeb-LightItalic.woff") format("woff");
+}
+@font-face{
+font-family:"TevaSans Light";
+src:url("/fonts/tevasans/TevaSansWeb-Light.eot?#iefix");
+src:url("/fonts/tevasans/TevaSansWeb-Light.eot?#iefix") format("eot"),url("/fonts/tevasans/TevaSansWeb-Light.woff2") format("woff2"),url("/fonts/tevasans/TevaSansWeb-Light.woff") format("woff");
+}
+
+$font-weight-regular: "TevaSans Light",Arial,sans-serif;
+$font-weight-medium: "TevaSans Regular",Arial,sans-serif;
+$font-weight-demi: "TevaSans Bold",Arial,sans-serif;
+$font-weight-bold: "TevaSans Bold",Arial,sans-serif;

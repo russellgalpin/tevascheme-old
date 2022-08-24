@@ -1,0 +1,81 @@
+<?php
+// Header markup
+echo $this->element('pharmacy/header');
+
+echo '<main class="container support">';
+?>
+
+<section class="support-heading">
+	<div class="heading-content">
+		<h1>Teva Learning Zone - Online learning & development for you and your team</h1>
+		<img src="/img/roundalls-5.svg" alt="Roundalls" class="roundalls">
+	</div>
+</section>
+
+<section class="support-banner">
+	<img src="/img/roundalls-2.svg" alt="Roundalls" class="img-left">
+	<img src="/img/roundalls-1.svg" alt="Roundalls" class="img-right">
+		<div class="banner-content">
+			<h3>Retail Price &pound;30 + VAT per skills package or free for eligible* TevaOne Members</h3>
+			<p>*Each monthly spend of &pound;3000 or more, made in the previous three months, will entitle TevaOne members to receive one free skills package, for up to 5 users.</p>
+		</div>
+</section>
+
+<section class="support-content">
+
+<div class="flex row">
+	<article class="col-ts-2-3">
+        <p>The Teva Learning Zone is an online learning platform designed to help develop the knowledge and key skills of staff within the pharmacy. Managers are also provided with an admin login which allows you to review the progress of each user. The Teva learning zone provides a variety of soft and professional learning skills for the whole pharmacy team to continue their learning and development in the workplace.</p>
+        <p>Practical application based on proven theory and professional skills that can be applied in practice.</p>
+        <br />
+        
+        <p><em>Encourage your staff to work efficiently and effectively</em></p>
+
+        <p><em>Manage the development of your staff and monitor their progress through each module</em></p>
+
+        <p><em>Developed in conjunction with industry experts to bring online learning to the workplace</em></p>
+
+        <p><em>Log your CPD entry on completion of each module</em></p>
+
+		<div class="outer-wrapper accordion" id="accordionPackage">
+			<div class="inner-wrapper" id="headingOne">
+				<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+					<h2>Choose a skills package<span class="open-close"></span></h2>
+				</button>
+				<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionPackage">
+					<div class="content card-body">
+						<h3>Soft skills</h3>
+                        <p>Time Management, Communication Skills and Motivation modules</p>
+                        <small>All modules are accredited by StudyFlex Ltd</small>
+
+                        <h3>Professional Skills</h3>
+                        <p>Controlled Drugs, Endorsing NHS prescriptions and Understanding the Drug Tariff modules</p>
+                        <small>Developed in conjunction with CIG Healthcare Partnership</small>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</article>
+
+	<aside class="col-ts-2-6">
+	
+		<img src="/img/icon-learning.png" alt="Teva Learning Zone" class="support-icon">
+
+		<div class="form-link">
+			<a href="/pharmacy/teva-learning-zone-sign-up">
+				<button class="btn-secondary">Order your Kit today</button>
+			</a>
+		</div>
+
+	</aside>
+</div>
+
+</section>
+
+<?php
+echo '</main>';
+// Footer markup
+echo $this->element('pharmacy/footer');
+?>
+</div>

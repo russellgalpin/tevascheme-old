@@ -1,0 +1,91 @@
+/* SPLASH PAGE */
+.splash-white-box{
+	width           : 319px;
+	height          : 421px;
+	top             : 170px;
+	left            : 10% !important;
+	background-image: url('/img/splash-white-box.png');
+	}
+	
+	#splash-head-one,	
+	#teva-logo,
+	#splash-footer {
+		margin-left: 100px;
+	}
+	
+	#splash-head-two {
+		margin-left: 70px;
+	}
+
+/* PHARMACY */
+#section-two-download-btn-one {
+	left: 770px!important;
+}
+
+#section-two-download-btn-two {
+	left: 599px!important;
+}
+
+#section-five-para-one,
+#section-five-para-two,
+#section-five-para-three {
+	right: 30px!important;
+}
+
+#section-three-image-one-holder {
+	left: 61px!important;
+}
+
+.section-nine h1 span {
+	font-size: 42px!important;
+}
+
+#sup-section-one #section-one-image-one-holder {
+	left: 370px!important;
+}
+
+#one-section-one #section-one-image-one-holder {
+	left: -88px!important;
+}
+
+#section-two-image-one-holder {
+	left: 402px!important;
+}
+
+.hoz-nav {
+	margin: 0px 20px!important;
+}
+
+.hoz-nav-footer {
+	margin-top: 10px!important;
+	margin-bottom: 10px!important;
+}
+
+
+
+.hoz-nav .span3,
+.hoz-nav-footer .span3 {
+	width: 212px!important;
+}
+
+.footer {
+	margin: 0px 20px;
+}
+
+.form-top {
+	margin-left: 20px;
+}
+
+form{
+	margin-bottom: 20px;
+}
+
+/*
+p {
+	font-size: 10px!important;
+	line-height: 1.0em!important;
+}
+h1 {
+	clear: both!important;
+}
+*/
